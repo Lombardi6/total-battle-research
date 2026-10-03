@@ -48,10 +48,10 @@ function image(b,r){
 function card(b,r){
   const c=current(b,r),done=c===r.levels,p=profile(r),pct=r.levels?c/r.levels*100:0;
   return `<article class="card ${done?"done":""}" data-open="${encodeURIComponent(b.id+"|"+r.name)}">
+    <div class="orderBadge">${String(r.order||0).padStart(2,"0")}</div>
     <div class="researchImage">${image(b,r)}</div>
-    <div><h3>${escapeHtml(r.name)}</h3><small>${c}/${r.levels} levelov · ${b.currency}</small><div class="bar"><i style="width:${pct}%"></i></div></div>
-    <div class="price">${fmt(remaining(b,r))}<br>${b.currency}</div>
-    <button class="toggle ${done?"done":""}" data-toggle="${encodeURIComponent(b.id+"|"+r.name)}">${done?"✓":"+"}</button>
+    <div class="cardBody"><div class="cardTop"><h3>${escapeHtml(r.name)}</h3><span class="currency ${b.currency}">${b.currency}</span></div><div class="metaLine"><span>${c}/${r.levels} levelov</span><span>•</span><span>${r.levels===1?"jednorazový výskum":"postupný výskum"}</span></div><div class="bar"><i style="width:${pct}%"></i></div><div class="cardBottom"><span>${pct.toFixed(0)}% hotovo</span><strong>Zostáva ${fmt(remaining(b,r))} ${b.currency}</strong></div></div>
+    <button class="toggle ${done?"done":""}" title="${done?"Vynulovať tento výskum":"Dokončiť všetky levely"}" data-toggle="${encodeURIComponent(b.id+"|"+r.name)}">${done?"✓":"+"}</button>
   </article>`
 }
 function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
@@ -72,7 +72,7 @@ function render(){
     });
     if(!rows.length)continue;
     shown+=rows.length;
-    html+=`<section class="branch"><div class="branchHead"><div class="branchIcon">${b.currency==="VP"?"⚔":"♜"}</div><div><h2>${escapeHtml(b.name)}</h2><small>${b.count} výskumov · ${b.currency}</small></div><div class="right">${b.branch_total} ${b.currency}</div></div><div class="grid">${rows.map(r=>card(b,r)).join("")}</div></section>`;
+    html+=`<section class="branch"><div class="branchHead"><div class="branchIcon">${b.currency==="VP"?"⚔":"♜"}</div><div class="branchTitle"><h2>${escapeHtml(b.name)}</h2><small>Poradie výskumu 01 → ${String(b.count).padStart(2,"0")} · ${b.count} položiek · ${b.currency}</small></div><div class="branchTotal"><span>CELÁ VETVA</span><strong>${b.branch_total} ${b.currency}</strong></div></div><div class="grid">${rows.map(r=>card(b,r)).join("")}</div></section>`;
   }
   $("#results").innerHTML=html||`<div class="empty">Nič sa nenašlo.<br>Skús „Monsters“, „Monsters VIII“ alebo vymaž filter.</div>`;
   document.querySelectorAll("[data-open]").forEach(el=>el.addEventListener("click",e=>{
@@ -101,7 +101,7 @@ function openResearch(bid,name){
   const b=DATA.find(x=>x.id===bid),r=b.items.find(x=>x.name===name),p=profile(r),c=current(b,r);
   $("#dialogBranch").textContent=b.name+" · "+b.currency;
   $("#dialogName").textContent=r.name;
-  $("#dialogMeta").textContent=`${r.levels} levelov · celkom ${r.total} ${b.currency}`;
+  $("#dialogMeta").textContent=`Poradie #${String(r.order||0).padStart(2,"0")} · ${r.levels} levelov · celkom ${r.total} ${b.currency}`;
   $("#dialogImage").innerHTML=image(b,r);
   $("#levelPicker").innerHTML=p.map((v,i)=>`<button class="level ${i<c?"done":""} ${i===c?"current":""}" data-level="${i+1}">Level ${i+1}<small>${fmt(v)} ${b.currency}</small></button>`).join("");
   $("#dialogDone").textContent=`${c} / ${r.levels}`;

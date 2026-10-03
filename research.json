@@ -13,7 +13,9 @@
         "curve": [
           "300"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Archer_I.CZSG6er4_Z3Rs5u.webp"
+        "image": "images/b28269c1a6c4de.svg",
+        "order": 1,
+        "globalOrder": 1
       },
       {
         "name": "Spearmen I",
@@ -22,7 +24,9 @@
         "curve": [
           "300"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Spearman_I.DJgZ2v6G_iHgaG.webp"
+        "image": "images/73e93ad5a3c612.svg",
+        "order": 2,
+        "globalOrder": 2
       },
       {
         "name": "Riders I",
@@ -31,7 +35,9 @@
         "curve": [
           "300"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Rider_I.FfrmEz6N_ZUDros.webp"
+        "image": "images/c3b1c095e24bd2.svg",
+        "order": 3,
+        "globalOrder": 3
       },
       {
         "name": "Guardsmen Training Cost I",
@@ -49,7 +55,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/8623a64ff58078.svg",
+        "order": 4,
+        "globalOrder": 4
       },
       {
         "name": "Guardsmen Carrying Capacity I",
@@ -67,7 +75,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/7643ed7cf3582f.svg",
+        "order": 5,
+        "globalOrder": 5
       },
       {
         "name": "Archers II",
@@ -76,7 +86,9 @@
         "curve": [
           "450K"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Archer_II.0JAzMrq2_l0azL.webp"
+        "image": "images/4b2e06fbe3913c.svg",
+        "order": 6,
+        "globalOrder": 6
       },
       {
         "name": "Spearmen II",
@@ -85,7 +97,9 @@
         "curve": [
           "450K"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Spearman_II.CrsakV5D_ZPbct8.webp"
+        "image": "images/65104d85bcc115.svg",
+        "order": 7,
+        "globalOrder": 7
       },
       {
         "name": "Riders II",
@@ -94,7 +108,9 @@
         "curve": [
           "450K"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Rider_II.WWDxXB0g_Z1YRKL5.webp"
+        "image": "images/f2fed72eaf5c7e.svg",
+        "order": 8,
+        "globalOrder": 8
       },
       {
         "name": "Guardsmen Training Cost II",
@@ -112,7 +128,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/b1ad7510f53dd3.svg",
+        "order": 9,
+        "globalOrder": 9
       },
       {
         "name": "Captain Bernard",
@@ -121,7 +139,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/a06268eb962889.svg",
+        "order": 10,
+        "globalOrder": 10
       },
       {
         "name": "Guardsmen’s March Speed I",
@@ -139,7 +159,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/04070c7176cc0a.svg",
+        "order": 11,
+        "globalOrder": 11
       },
       {
         "name": "Captain Lucius",
@@ -148,7 +170,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/bec6e6a89577f7.svg",
+        "order": 12,
+        "globalOrder": 12
       },
       {
         "name": "Archers III",
@@ -157,7 +181,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/6877be9580b68d.svg",
+        "order": 13,
+        "globalOrder": 13
       },
       {
         "name": "Spearmen III",
@@ -166,7 +192,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/7b5951ca0f296c.svg",
+        "order": 14,
+        "globalOrder": 14
       },
       {
         "name": "Riders III",
@@ -175,7 +203,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/f03297c469b33e.svg",
+        "order": 15,
+        "globalOrder": 15
       },
       {
         "name": "Guardsmen’s March Speed II",
@@ -193,7 +223,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/5e8abea08df81d.svg",
+        "order": 16,
+        "globalOrder": 16
       },
       {
         "name": "Captain Doria",
@@ -202,7 +234,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/7fd97cc8ee4299.svg",
+        "order": 17,
+        "globalOrder": 17
       },
       {
         "name": "Guardsmen’s Carrying Capacity II",
@@ -220,7 +254,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/41a3da203b79a9.svg",
+        "order": 18,
+        "globalOrder": 18
       },
       {
         "name": "Archers IV",
@@ -229,7 +265,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/9e49d0a71c71d2.svg",
+        "order": 19,
+        "globalOrder": 19
       },
       {
         "name": "Spearmen IV",
@@ -238,7 +276,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/2a48da6c92454f.svg",
+        "order": 20,
+        "globalOrder": 20
       },
       {
         "name": "Riders IV",
@@ -247,7 +287,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/24553e9989b350.svg",
+        "order": 21,
+        "globalOrder": 21
       },
       {
         "name": "Guardsmen’s Training Cost III",
@@ -265,7 +307,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/75271e006540dd.svg",
+        "order": 22,
+        "globalOrder": 22
       },
       {
         "name": "Guardsmen’s March Speed III",
@@ -283,7 +327,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/90a56b2c3546ce.svg",
+        "order": 23,
+        "globalOrder": 23
       },
       {
         "name": "Guardsmen’s Carrying Capacity III",
@@ -301,7 +347,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/0550f159f40fb0.svg",
+        "order": 24,
+        "globalOrder": 24
       },
       {
         "name": "Archers V",
@@ -310,7 +358,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/a37286d2061520.svg",
+        "order": 25,
+        "globalOrder": 25
       },
       {
         "name": "Spearmen V",
@@ -319,7 +369,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/e4dffe0272d6be.svg",
+        "order": 26,
+        "globalOrder": 26
       },
       {
         "name": "Riders V",
@@ -328,7 +380,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/36ab1261427ada.svg",
+        "order": 27,
+        "globalOrder": 27
       },
       {
         "name": "Battle Griffin V",
@@ -337,7 +391,9 @@
         "curve": [
           "900M"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Battle_Griffin_V.C99h84ja_Z2gWqKN.webp"
+        "image": "images/cad8f2f486cd03.svg",
+        "order": 28,
+        "globalOrder": 28
       },
       {
         "name": "Guardsmen’s Training Cost IV",
@@ -355,7 +411,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/5284e17564c6e6.svg",
+        "order": 29,
+        "globalOrder": 29
       },
       {
         "name": "Captain Brunhild",
@@ -364,7 +422,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/3d241dad4e80cd.svg",
+        "order": 30,
+        "globalOrder": 30
       },
       {
         "name": "Guardsmen’s March Speed IV",
@@ -382,7 +442,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/3fc5451a570abb.svg",
+        "order": 31,
+        "globalOrder": 31
       },
       {
         "name": "Guardsmen’s Carrying Capacity IV",
@@ -400,7 +462,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/b787cfe4747d2a.svg",
+        "order": 32,
+        "globalOrder": 32
       },
       {
         "name": "Heavy Arbalester VI",
@@ -409,7 +473,9 @@
         "curve": [
           "9B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Heavy_Arbalester_VI.txXqJIDl_1vM0DG.webp"
+        "image": "images/851e6b0aecd625.svg",
+        "order": 33,
+        "globalOrder": 33
       },
       {
         "name": "Heavy Halberdier VI",
@@ -418,7 +484,9 @@
         "curve": [
           "9B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Heavy_Halberdier_VI.DETZynzA_Z1UTyj4.webp"
+        "image": "images/17e1562d54b6d8.svg",
+        "order": 34,
+        "globalOrder": 34
       },
       {
         "name": "Mounted Knight VI",
@@ -427,7 +495,9 @@
         "curve": [
           "9B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Mounted_Knight_VI.Ck5f-oBL_Lqxs5.webp"
+        "image": "images/2675e9b286f454.svg",
+        "order": 35,
+        "globalOrder": 35
       },
       {
         "name": "Battle Griffin VI",
@@ -436,7 +506,9 @@
         "curve": [
           "9B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Battle_Griffin_VI.CyoxgvPj_19azcx.webp"
+        "image": "images/367a5e16a4e26e.svg",
+        "order": 36,
+        "globalOrder": 36
       },
       {
         "name": "Guardsmen’s Training Cost V",
@@ -454,7 +526,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/9463d8550beb60.svg",
+        "order": 37,
+        "globalOrder": 37
       },
       {
         "name": "Guardsmen’s March Speed V",
@@ -472,7 +546,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/52d5425066a7f5.svg",
+        "order": 38,
+        "globalOrder": 38
       },
       {
         "name": "Guardsmen’s Carrying Capacity V",
@@ -490,7 +566,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/e77f1e506bd382.svg",
+        "order": 39,
+        "globalOrder": 39
       },
       {
         "name": "Heavy Arbalester VII",
@@ -499,7 +577,9 @@
         "curve": [
           "90B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Heavy_Arbalester_VII.DezwUkTG_Z20Xtah.webp"
+        "image": "images/cc0e6bde5e9464.svg",
+        "order": 40,
+        "globalOrder": 40
       },
       {
         "name": "Heavy Halberdier VII",
@@ -508,7 +588,9 @@
         "curve": [
           "90B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Heavy_Halberdier_VII.B3NFJEAQ_Zjpr8Q.webp"
+        "image": "images/557783b1815925.svg",
+        "order": 41,
+        "globalOrder": 41
       },
       {
         "name": "Mounted Knight VII",
@@ -517,7 +599,9 @@
         "curve": [
           "90B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Mounted_Knight_VII.DX1c0bXt_1fxnwv.webp"
+        "image": "images/9a651081138c6e.svg",
+        "order": 42,
+        "globalOrder": 42
       },
       {
         "name": "Battle Griffin VII",
@@ -526,7 +610,9 @@
         "curve": [
           "90B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Battle_Griffin_VII.7QUM1PaA_ZmDeiR.webp"
+        "image": "images/8e80f732ffa50e.svg",
+        "order": 43,
+        "globalOrder": 43
       }
     ]
   },
@@ -553,7 +639,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/32aad2db4af2e0.svg",
+        "order": 1,
+        "globalOrder": 44
       },
       {
         "name": "Guardsmen’s Carrying Capacity VI",
@@ -571,7 +659,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/8635c6a36719a5.svg",
+        "order": 2,
+        "globalOrder": 45
       },
       {
         "name": "Guardsmen’s March Speed VI",
@@ -589,7 +679,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/9ca2c3839e5ee7.svg",
+        "order": 3,
+        "globalOrder": 46
       },
       {
         "name": "Purifier I",
@@ -598,7 +690,9 @@
         "curve": [
           "900B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Purifier_VIII.pse-Fu1Q_2wkFVG.webp"
+        "image": "images/22778f6870733c.svg",
+        "order": 4,
+        "globalOrder": 47
       },
       {
         "name": "Punisher I",
@@ -607,7 +701,9 @@
         "curve": [
           "900B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Punisher_VIII.DWa77y5b_xGhSw.webp"
+        "image": "images/b5656897c86e09.svg",
+        "order": 5,
+        "globalOrder": 48
       },
       {
         "name": "Smiter I",
@@ -616,7 +712,9 @@
         "curve": [
           "900B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Smiter_VIII.B83H8bvD_Z1HT7pi.webp"
+        "image": "images/1b8d1b9d0d30f1.svg",
+        "order": 6,
+        "globalOrder": 49
       },
       {
         "name": "Corax I",
@@ -625,7 +723,9 @@
         "curve": [
           "900B"
         ],
-        "image": "https://totalbattlewiki.com/_astro/Corax_VIII.DduC0wu0_2y3hV.webp"
+        "image": "images/575aa6349b2c26.svg",
+        "order": 7,
+        "globalOrder": 50
       },
       {
         "name": "Guardsmen’s Training Cost VII",
@@ -643,7 +743,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/4759f4fefd1ba6.svg",
+        "order": 8,
+        "globalOrder": 51
       },
       {
         "name": "Guardsmen’s Carrying Capacity VII",
@@ -661,7 +763,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/8467d85d5fb763.svg",
+        "order": 9,
+        "globalOrder": 52
       },
       {
         "name": "Guardsmen’s March Speed VII",
@@ -679,7 +783,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/86faff610dd9b7.svg",
+        "order": 10,
+        "globalOrder": 53
       },
       {
         "name": "Purifier II",
@@ -688,7 +794,9 @@
         "curve": [
           "9T"
         ],
-        "image": ""
+        "image": "images/7e8a75701c95eb.svg",
+        "order": 11,
+        "globalOrder": 54
       },
       {
         "name": "Punisher II",
@@ -697,7 +805,9 @@
         "curve": [
           "9T"
         ],
-        "image": ""
+        "image": "images/a5c916df4358c1.svg",
+        "order": 12,
+        "globalOrder": 55
       },
       {
         "name": "Smiter II",
@@ -706,7 +816,9 @@
         "curve": [
           "9T"
         ],
-        "image": ""
+        "image": "images/c184868a1cc5c5.svg",
+        "order": 13,
+        "globalOrder": 56
       },
       {
         "name": "Corax II",
@@ -715,7 +827,9 @@
         "curve": [
           "9T"
         ],
-        "image": ""
+        "image": "images/cfecde6b4ca331.svg",
+        "order": 14,
+        "globalOrder": 57
       }
     ]
   },
@@ -733,7 +847,9 @@
         "curve": [
           "150"
         ],
-        "image": ""
+        "image": "images/c34ebb67b4b9b0.svg",
+        "order": 1,
+        "globalOrder": 58
       },
       {
         "name": "Spies I",
@@ -742,7 +858,9 @@
         "curve": [
           "150"
         ],
-        "image": ""
+        "image": "images/933830e9b2c825.svg",
+        "order": 2,
+        "globalOrder": 59
       },
       {
         "name": "Specialists’ Training Cost I",
@@ -760,7 +878,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/a0d50c46af1382.svg",
+        "order": 3,
+        "globalOrder": 60
       },
       {
         "name": "Specialists’ Carrying Capacity I",
@@ -778,7 +898,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/185eea49eb24e9.svg",
+        "order": 4,
+        "globalOrder": 61
       },
       {
         "name": "Swordsmen II",
@@ -787,7 +909,9 @@
         "curve": [
           "120K"
         ],
-        "image": ""
+        "image": "images/c1ef723a3ea9d3.svg",
+        "order": 5,
+        "globalOrder": 62
       },
       {
         "name": "Spies II",
@@ -796,7 +920,9 @@
         "curve": [
           "120K"
         ],
-        "image": ""
+        "image": "images/88298428bb5820.svg",
+        "order": 6,
+        "globalOrder": 63
       },
       {
         "name": "Specialists Training Cost II",
@@ -814,7 +940,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/9b7107fb616cb2.svg",
+        "order": 7,
+        "globalOrder": 64
       },
       {
         "name": "Captain Ye Ho-Sung",
@@ -823,7 +951,9 @@
         "curve": [
           "120K"
         ],
-        "image": ""
+        "image": "images/4bff2603c21e94.svg",
+        "order": 8,
+        "globalOrder": 65
       },
       {
         "name": "Specialists’ March Speed I",
@@ -841,7 +971,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/bb1b23dd573e46.svg",
+        "order": 9,
+        "globalOrder": 66
       },
       {
         "name": "Swordsmen III",
@@ -850,7 +982,9 @@
         "curve": [
           "2.5M"
         ],
-        "image": ""
+        "image": "images/b21cf9dcc80ad5.svg",
+        "order": 10,
+        "globalOrder": 67
       },
       {
         "name": "Spies III",
@@ -859,7 +993,9 @@
         "curve": [
           "2.5M"
         ],
-        "image": ""
+        "image": "images/446b6bc8bec4af.svg",
+        "order": 11,
+        "globalOrder": 68
       },
       {
         "name": "Specialists’ March Speed II",
@@ -877,7 +1013,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/3a39bfb0996a4b.svg",
+        "order": 12,
+        "globalOrder": 69
       },
       {
         "name": "Captain Dustan",
@@ -886,7 +1024,9 @@
         "curve": [
           "22M"
         ],
-        "image": ""
+        "image": "images/a18318a9ea4736.svg",
+        "order": 13,
+        "globalOrder": 70
       },
       {
         "name": "Specialists’ Carrying Capacity II",
@@ -904,7 +1044,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/d83d1454d12464.svg",
+        "order": 14,
+        "globalOrder": 71
       },
       {
         "name": "Swordsmen IV",
@@ -913,7 +1055,9 @@
         "curve": [
           "22M"
         ],
-        "image": ""
+        "image": "images/ff593738454c82.svg",
+        "order": 15,
+        "globalOrder": 72
       },
       {
         "name": "Spies IV",
@@ -922,7 +1066,9 @@
         "curve": [
           "22M"
         ],
-        "image": ""
+        "image": "images/d0a0ddb271b1b1.svg",
+        "order": 16,
+        "globalOrder": 73
       },
       {
         "name": "Specialists’ Training Cost III",
@@ -940,7 +1086,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/e1de1a14681bbe.svg",
+        "order": 17,
+        "globalOrder": 74
       },
       {
         "name": "Specialists’ Carrying Capacity III",
@@ -958,7 +1106,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/3432f51b3b23f3.svg",
+        "order": 18,
+        "globalOrder": 75
       },
       {
         "name": "Specialists’ March Speed III",
@@ -976,7 +1126,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/4ada83156cc9eb.svg",
+        "order": 19,
+        "globalOrder": 76
       },
       {
         "name": "Spies V",
@@ -985,7 +1137,9 @@
         "curve": [
           "300M"
         ],
-        "image": ""
+        "image": "images/022461ddf0e7a1.svg",
+        "order": 20,
+        "globalOrder": 77
       },
       {
         "name": "Vultures V",
@@ -994,7 +1148,9 @@
         "curve": [
           "300M"
         ],
-        "image": ""
+        "image": "images/455d9c59a19ed8.svg",
+        "order": 21,
+        "globalOrder": 78
       },
       {
         "name": "Swordsmen V",
@@ -1003,7 +1159,9 @@
         "curve": [
           "300M"
         ],
-        "image": ""
+        "image": "images/ae914c0567548b.svg",
+        "order": 22,
+        "globalOrder": 79
       },
       {
         "name": "Deadshots V",
@@ -1012,7 +1170,9 @@
         "curve": [
           "300M"
         ],
-        "image": ""
+        "image": "images/9f14baebae8bba.svg",
+        "order": 23,
+        "globalOrder": 80
       },
       {
         "name": "Lion Riders V",
@@ -1021,7 +1181,9 @@
         "curve": [
           "300M"
         ],
-        "image": ""
+        "image": "images/864a4093d74e5a.svg",
+        "order": 24,
+        "globalOrder": 81
       },
       {
         "name": "Specialists’ Training Cost IV",
@@ -1039,7 +1201,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/581a8068d483c4.svg",
+        "order": 25,
+        "globalOrder": 82
       },
       {
         "name": "Specialists’ Carrying Capacity IV",
@@ -1057,7 +1221,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/32eb19c81a1e0e.svg",
+        "order": 26,
+        "globalOrder": 83
       },
       {
         "name": "Specialists’ March Speed IV",
@@ -1075,7 +1241,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/3d50196898ed86.svg",
+        "order": 27,
+        "globalOrder": 84
       },
       {
         "name": "Swift Jaeger VI",
@@ -1084,7 +1252,9 @@
         "curve": [
           "3B"
         ],
-        "image": ""
+        "image": "images/baf308af2a1d8e.svg",
+        "order": 28,
+        "globalOrder": 85
       },
       {
         "name": "Vultures VI",
@@ -1093,7 +1263,9 @@
         "curve": [
           "3B"
         ],
-        "image": ""
+        "image": "images/3305e95386c05d.svg",
+        "order": 29,
+        "globalOrder": 86
       },
       {
         "name": "Deadshots VI",
@@ -1102,7 +1274,9 @@
         "curve": [
           "3B"
         ],
-        "image": ""
+        "image": "images/405fee2893829d.svg",
+        "order": 30,
+        "globalOrder": 87
       },
       {
         "name": "Heavy Knight VI",
@@ -1111,7 +1285,9 @@
         "curve": [
           "3B"
         ],
-        "image": ""
+        "image": "images/f4bffe1ba00151.svg",
+        "order": 31,
+        "globalOrder": 88
       },
       {
         "name": "Lion Riders VI",
@@ -1120,7 +1296,9 @@
         "curve": [
           "3B"
         ],
-        "image": ""
+        "image": "images/da3ce9ef980897.svg",
+        "order": 32,
+        "globalOrder": 89
       },
       {
         "name": "Specialists Training Cost V",
@@ -1138,7 +1316,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/4840356a7a4c8f.svg",
+        "order": 33,
+        "globalOrder": 90
       },
       {
         "name": "Specialists’ Carrying Capacity V",
@@ -1156,7 +1336,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/bfbcacafa1a2fe.svg",
+        "order": 34,
+        "globalOrder": 91
       },
       {
         "name": "Specialists’ March Speed V",
@@ -1174,7 +1356,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/55e9f8aa5cb5c9.svg",
+        "order": 35,
+        "globalOrder": 92
       },
       {
         "name": "Swift Jaeger VII",
@@ -1183,7 +1367,9 @@
         "curve": [
           "30B"
         ],
-        "image": ""
+        "image": "images/620a19df6e3db3.svg",
+        "order": 36,
+        "globalOrder": 93
       },
       {
         "name": "Vultures VII",
@@ -1192,7 +1378,9 @@
         "curve": [
           "30B"
         ],
-        "image": ""
+        "image": "images/1bbc5761241a0e.svg",
+        "order": 37,
+        "globalOrder": 94
       },
       {
         "name": "Heavy Knight VII",
@@ -1201,7 +1389,9 @@
         "curve": [
           "30B"
         ],
-        "image": ""
+        "image": "images/11247651e63ebe.svg",
+        "order": 38,
+        "globalOrder": 95
       },
       {
         "name": "Deadshots VII",
@@ -1210,7 +1400,9 @@
         "curve": [
           "30B"
         ],
-        "image": ""
+        "image": "images/571a946bfde4c2.svg",
+        "order": 39,
+        "globalOrder": 96
       },
       {
         "name": "Lion Riders VII",
@@ -1219,7 +1411,9 @@
         "curve": [
           "30B"
         ],
-        "image": ""
+        "image": "images/e3396ad4354688.svg",
+        "order": 40,
+        "globalOrder": 97
       }
     ]
   },
@@ -1246,7 +1440,9 @@
           "370B",
           "600B"
         ],
-        "image": ""
+        "image": "images/09549b225ac1eb.svg",
+        "order": 1,
+        "globalOrder": 98
       },
       {
         "name": "Specialists’ Carrying Capacity VI",
@@ -1264,7 +1460,9 @@
           "370B",
           "600B"
         ],
-        "image": ""
+        "image": "images/68d53d3b10c88d.svg",
+        "order": 2,
+        "globalOrder": 99
       },
       {
         "name": "Specialists’ March Speed VI",
@@ -1282,7 +1480,9 @@
           "370B",
           "600B"
         ],
-        "image": ""
+        "image": "images/5655da309c6768.svg",
+        "order": 3,
+        "globalOrder": 100
       },
       {
         "name": "Panoptic I",
@@ -1291,7 +1491,9 @@
         "curve": [
           "300B"
         ],
-        "image": ""
+        "image": "images/52a8ff246ad81d.svg",
+        "order": 4,
+        "globalOrder": 101
       },
       {
         "name": "Royal Lion I",
@@ -1300,7 +1502,9 @@
         "curve": [
           "300B"
         ],
-        "image": ""
+        "image": "images/cb4005af7d2067.svg",
+        "order": 5,
+        "globalOrder": 102
       },
       {
         "name": "Duelist I",
@@ -1309,7 +1513,9 @@
         "curve": [
           "300B"
         ],
-        "image": ""
+        "image": "images/49867085b3c226.svg",
+        "order": 6,
+        "globalOrder": 103
       },
       {
         "name": "Legitimist I",
@@ -1318,7 +1524,9 @@
         "curve": [
           "300B"
         ],
-        "image": ""
+        "image": "images/213cd45d3ab007.svg",
+        "order": 7,
+        "globalOrder": 104
       },
       {
         "name": "Whitemane I",
@@ -1327,28 +1535,36 @@
         "curve": [
           "300B"
         ],
-        "image": ""
+        "image": "images/91157381ac3bab.svg",
+        "order": 8,
+        "globalOrder": 105
       },
       {
         "name": "Specialists’ Training Cost VII",
         "levels": 10,
         "total": "15.01T",
         "curve": [],
-        "image": ""
+        "image": "images/a33bc22197a082.svg",
+        "order": 9,
+        "globalOrder": 106
       },
       {
         "name": "Specialists’ Carrying Capacity VII",
         "levels": 10,
         "total": "15.01T",
         "curve": [],
-        "image": ""
+        "image": "images/2b81321065185c.svg",
+        "order": 10,
+        "globalOrder": 107
       },
       {
         "name": "Specialists’ March Speed VII",
         "levels": 10,
         "total": "15.01T",
         "curve": [],
-        "image": ""
+        "image": "images/fdd1e633e68312.svg",
+        "order": 11,
+        "globalOrder": 108
       },
       {
         "name": "Panoptic II",
@@ -1357,7 +1573,9 @@
         "curve": [
           "3T"
         ],
-        "image": ""
+        "image": "images/285467150b6e8a.svg",
+        "order": 12,
+        "globalOrder": 109
       },
       {
         "name": "Royal Lion II",
@@ -1366,7 +1584,9 @@
         "curve": [
           "3T"
         ],
-        "image": ""
+        "image": "images/fefc0758baf01d.svg",
+        "order": 13,
+        "globalOrder": 110
       },
       {
         "name": "Duelist II",
@@ -1375,7 +1595,9 @@
         "curve": [
           "3T"
         ],
-        "image": ""
+        "image": "images/9b27d729152094.svg",
+        "order": 14,
+        "globalOrder": 111
       },
       {
         "name": "Legitimist II",
@@ -1384,7 +1606,9 @@
         "curve": [
           "3T"
         ],
-        "image": ""
+        "image": "images/5bf66f36c491a9.svg",
+        "order": 15,
+        "globalOrder": 112
       },
       {
         "name": "Whitemane II",
@@ -1393,7 +1617,9 @@
         "curve": [
           "3T"
         ],
-        "image": ""
+        "image": "images/a612a76ceefe11.svg",
+        "order": 16,
+        "globalOrder": 113
       }
     ]
   },
@@ -1411,7 +1637,9 @@
         "curve": [
           "300"
         ],
-        "image": ""
+        "image": "images/71df3cc731ccd1.svg",
+        "order": 1,
+        "globalOrder": 114
       },
       {
         "name": "Catapults I",
@@ -1420,7 +1648,9 @@
         "curve": [
           "300"
         ],
-        "image": ""
+        "image": "images/a2286395e6cce2.svg",
+        "order": 2,
+        "globalOrder": 115
       },
       {
         "name": "Siege Engines’ Training Cost I",
@@ -1438,7 +1668,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/7a8a870c56cd8b.svg",
+        "order": 3,
+        "globalOrder": 116
       },
       {
         "name": "Siege Engines’ Carrying Capacity I",
@@ -1456,7 +1688,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/0ad5a3385a0f91.svg",
+        "order": 4,
+        "globalOrder": 117
       },
       {
         "name": "City Walls II",
@@ -1465,7 +1699,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/4b952ac8fc0657.svg",
+        "order": 5,
+        "globalOrder": 118
       },
       {
         "name": "Catapults II",
@@ -1474,7 +1710,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/a2c3e52a90582e.svg",
+        "order": 6,
+        "globalOrder": 119
       },
       {
         "name": "Siege Engines’ Training Cost II",
@@ -1492,7 +1730,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/c5fbe9b0f1cbc7.svg",
+        "order": 7,
+        "globalOrder": 120
       },
       {
         "name": "Captain Brann",
@@ -1501,7 +1741,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/2de9ee0a969439.svg",
+        "order": 8,
+        "globalOrder": 121
       },
       {
         "name": "Siege Engines’ March Speed I",
@@ -1519,7 +1761,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/7441e04e8535eb.svg",
+        "order": 9,
+        "globalOrder": 122
       },
       {
         "name": "City Walls III",
@@ -1528,7 +1772,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/b2c75b012dd217.svg",
+        "order": 10,
+        "globalOrder": 123
       },
       {
         "name": "Catapults III",
@@ -1537,7 +1783,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/a0711341972627.svg",
+        "order": 11,
+        "globalOrder": 124
       },
       {
         "name": "Siege Engines’ March Speed II",
@@ -1555,7 +1803,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/f338204815b450.svg",
+        "order": 12,
+        "globalOrder": 125
       },
       {
         "name": "Siege Engines’ Carrying Capacity II",
@@ -1573,7 +1823,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/0a24d7eaca6e32.svg",
+        "order": 13,
+        "globalOrder": 126
       },
       {
         "name": "City Walls IV",
@@ -1582,7 +1834,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/43780c7a541d4c.svg",
+        "order": 14,
+        "globalOrder": 127
       },
       {
         "name": "Catapults IV",
@@ -1591,7 +1845,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/da46bff02f2dab.svg",
+        "order": 15,
+        "globalOrder": 128
       },
       {
         "name": "Siege Engines’ Training Cost III",
@@ -1609,7 +1865,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/fdcbead98a2dcf.svg",
+        "order": 16,
+        "globalOrder": 129
       },
       {
         "name": "Siege Engines’ March Speed III",
@@ -1627,7 +1885,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/65512efa727ba0.svg",
+        "order": 17,
+        "globalOrder": 130
       },
       {
         "name": "Siege Engines’ Carrying Capacity III",
@@ -1645,7 +1905,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/e5078a6b46f2e7.svg",
+        "order": 18,
+        "globalOrder": 131
       },
       {
         "name": "City Walls V",
@@ -1654,7 +1916,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/5942a0093ef724.svg",
+        "order": 19,
+        "globalOrder": 132
       },
       {
         "name": "Catapults V",
@@ -1663,7 +1927,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/1e7c62b4de7c69.svg",
+        "order": 20,
+        "globalOrder": 133
       },
       {
         "name": "Siege Engines’ Training Cost IV",
@@ -1681,7 +1947,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/bc7c3055036154.svg",
+        "order": 21,
+        "globalOrder": 134
       },
       {
         "name": "Siege Engines’ March Speed IV",
@@ -1699,7 +1967,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/374f0afe393688.svg",
+        "order": 22,
+        "globalOrder": 135
       },
       {
         "name": "Siege Engines’ Carrying Capacity IV",
@@ -1717,7 +1987,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/9526a1bc084777.svg",
+        "order": 23,
+        "globalOrder": 136
       },
       {
         "name": "City Walls VI",
@@ -1726,7 +1998,9 @@
         "curve": [
           "9B"
         ],
-        "image": ""
+        "image": "images/70457ef56c289f.svg",
+        "order": 24,
+        "globalOrder": 137
       },
       {
         "name": "Ballistae VI",
@@ -1735,7 +2009,9 @@
         "curve": [
           "9B"
         ],
-        "image": ""
+        "image": "images/79f3b9619a4706.svg",
+        "order": 25,
+        "globalOrder": 138
       },
       {
         "name": "Siege Engines’ Training Cost V",
@@ -1753,7 +2029,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/23b6fa5bf13332.svg",
+        "order": 26,
+        "globalOrder": 139
       },
       {
         "name": "Siege Engines’ March Speed V",
@@ -1771,7 +2049,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/74b65f8506d546.svg",
+        "order": 27,
+        "globalOrder": 140
       },
       {
         "name": "Siege Engines’ Carrying Capacity V",
@@ -1789,7 +2069,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/6004d8975c0bb6.svg",
+        "order": 28,
+        "globalOrder": 141
       },
       {
         "name": "City Walls VII",
@@ -1798,7 +2080,9 @@
         "curve": [
           "90B"
         ],
-        "image": ""
+        "image": "images/3c027d5ad6e938.svg",
+        "order": 29,
+        "globalOrder": 142
       },
       {
         "name": "Ballistae VII",
@@ -1807,7 +2091,9 @@
         "curve": [
           "90B"
         ],
-        "image": ""
+        "image": "images/0b27e2c045f4fd.svg",
+        "order": 30,
+        "globalOrder": 143
       }
     ]
   },
@@ -1834,7 +2120,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/74771d55fe1bd9.svg",
+        "order": 1,
+        "globalOrder": 144
       },
       {
         "name": "Siege Engines’ March Speed VI",
@@ -1852,7 +2140,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/986c1305ff2415.svg",
+        "order": 2,
+        "globalOrder": 145
       },
       {
         "name": "Siege Engines’ Carrying Capacity VI",
@@ -1870,7 +2160,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/6083c216520150.svg",
+        "order": 3,
+        "globalOrder": 146
       },
       {
         "name": "Fortress Walls I",
@@ -1879,7 +2171,9 @@
         "curve": [
           "900B"
         ],
-        "image": ""
+        "image": "images/0dc9622a54dd9a.svg",
+        "order": 4,
+        "globalOrder": 147
       },
       {
         "name": "Josephine I",
@@ -1888,7 +2182,9 @@
         "curve": [
           "900B"
         ],
-        "image": ""
+        "image": "images/67ee258073943c.svg",
+        "order": 5,
+        "globalOrder": 148
       },
       {
         "name": "Siege Engines’ Training Cost VII",
@@ -1906,7 +2202,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/679199665e1ba2.svg",
+        "order": 6,
+        "globalOrder": 149
       },
       {
         "name": "Siege Engines’ Marching Speed VII",
@@ -1924,7 +2222,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/5b3a35776cd062.svg",
+        "order": 7,
+        "globalOrder": 150
       },
       {
         "name": "Siege Engines’ Carrying Capacity VII",
@@ -1942,7 +2242,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/cd1d97838dae1f.svg",
+        "order": 8,
+        "globalOrder": 151
       },
       {
         "name": "Fortress Walls II",
@@ -1951,7 +2253,9 @@
         "curve": [
           "9T"
         ],
-        "image": ""
+        "image": "images/f2723296fbe33b.svg",
+        "order": 9,
+        "globalOrder": 152
       },
       {
         "name": "Josephine II",
@@ -1960,7 +2264,9 @@
         "curve": [
           "9T"
         ],
-        "image": ""
+        "image": "images/41f2e7cc54d1c4.svg",
+        "order": 10,
+        "globalOrder": 153
       }
     ]
   },
@@ -1978,7 +2284,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/0b254ab23aa0b4.svg",
+        "order": 1,
+        "globalOrder": 154
       },
       {
         "name": "Monsters’ Cost I",
@@ -1996,7 +2304,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/c9ebec0d261a21.svg",
+        "order": 2,
+        "globalOrder": 155
       },
       {
         "name": "Monsters’ March Speed I",
@@ -2014,7 +2324,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/1330dc49ff4809.svg",
+        "order": 3,
+        "globalOrder": 156
       },
       {
         "name": "Monsters’ Carrying Capacity I",
@@ -2032,7 +2344,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/4926a6584dc204.svg",
+        "order": 4,
+        "globalOrder": 157
       },
       {
         "name": "Monsters IV",
@@ -2041,7 +2355,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/f468144dc7fde2.svg",
+        "order": 5,
+        "globalOrder": 158
       },
       {
         "name": "Monsters’ March Speed II",
@@ -2059,7 +2375,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/9d411d2f512128.svg",
+        "order": 6,
+        "globalOrder": 159
       },
       {
         "name": "Monsters’ Cost II",
@@ -2077,7 +2395,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/8173a9c011ef29.svg",
+        "order": 7,
+        "globalOrder": 160
       },
       {
         "name": "Monsters V",
@@ -2086,7 +2406,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/df1b01388cc1f4.svg",
+        "order": 8,
+        "globalOrder": 161
       },
       {
         "name": "Captain Ingrid",
@@ -2095,28 +2417,36 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/604faf51146ca0.svg",
+        "order": 9,
+        "globalOrder": 162
       },
       {
         "name": "Monsters’ March Speed III",
         "levels": 9,
         "total": "22.2B",
         "curve": [],
-        "image": ""
+        "image": "images/0a72c4c0bab689.svg",
+        "order": 10,
+        "globalOrder": 163
       },
       {
         "name": "Monsters’ Carrying Capacity II",
         "levels": 10,
         "total": "22.6B",
         "curve": [],
-        "image": ""
+        "image": "images/15bfd1edad3b74.svg",
+        "order": 11,
+        "globalOrder": 164
       },
       {
         "name": "Monsters Cost III",
         "levels": 10,
         "total": "22.6B",
         "curve": [],
-        "image": ""
+        "image": "images/a983d6357f84f6.svg",
+        "order": 12,
+        "globalOrder": 165
       },
       {
         "name": "Monsters VI",
@@ -2125,28 +2455,36 @@
         "curve": [
           "9B"
         ],
-        "image": ""
+        "image": "images/91131a0dbb3c02.svg",
+        "order": 13,
+        "globalOrder": 166
       },
       {
         "name": "Monsters’ March Speed IV",
         "levels": 10,
         "total": "271.06B",
         "curve": [],
-        "image": ""
+        "image": "images/1aa0356ac2e27e.svg",
+        "order": 14,
+        "globalOrder": 167
       },
       {
         "name": "Monsters’ Carrying Capacity III",
         "levels": 10,
         "total": "271.06B",
         "curve": [],
-        "image": ""
+        "image": "images/3709641e6b78c5.svg",
+        "order": 15,
+        "globalOrder": 168
       },
       {
         "name": "Monsters Cost IV",
         "levels": 10,
         "total": "271.06B",
         "curve": [],
-        "image": ""
+        "image": "images/9ad4ccc9381a6e.svg",
+        "order": 16,
+        "globalOrder": 169
       },
       {
         "name": "Monsters VII",
@@ -2155,7 +2493,9 @@
         "curve": [
           "90B"
         ],
-        "image": ""
+        "image": "images/6e0326b5f0f8a7.svg",
+        "order": 17,
+        "globalOrder": 170
       }
     ]
   },
@@ -2182,7 +2522,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/5a10cec05a5c86.svg",
+        "order": 1,
+        "globalOrder": 171
       },
       {
         "name": "Monsters’ Carrying Capacity IV",
@@ -2200,7 +2542,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/f16872c0b30562.svg",
+        "order": 2,
+        "globalOrder": 172
       },
       {
         "name": "Monsters’ March Speed V",
@@ -2218,7 +2562,9 @@
           "1T",
           "1.7T"
         ],
-        "image": ""
+        "image": "images/0d54a0c257fbae.svg",
+        "order": 3,
+        "globalOrder": 173
       },
       {
         "name": "Monsters I",
@@ -2227,7 +2573,9 @@
         "curve": [
           "900B"
         ],
-        "image": ""
+        "image": "images/98a7f9b45052cc.svg",
+        "order": 4,
+        "globalOrder": 174
       },
       {
         "name": "Monsters Cost VI",
@@ -2245,7 +2593,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/78b56cc90015c0.svg",
+        "order": 5,
+        "globalOrder": 175
       },
       {
         "name": "Monsters’ Carrying Capacity V",
@@ -2263,7 +2613,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/cba7cf208ca271.svg",
+        "order": 6,
+        "globalOrder": 176
       },
       {
         "name": "Monsters’ March Speed VI",
@@ -2281,7 +2633,9 @@
           "10T",
           "17T"
         ],
-        "image": ""
+        "image": "images/a1f91c69e37485.svg",
+        "order": 7,
+        "globalOrder": 177
       },
       {
         "name": "Monsters II",
@@ -2290,7 +2644,9 @@
         "curve": [
           "9T"
         ],
-        "image": ""
+        "image": "images/45dd5f5a84ef46.svg",
+        "order": 8,
+        "globalOrder": 178
       }
     ]
   },
@@ -2317,7 +2673,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/1957c8cbc8972c.svg",
+        "order": 1,
+        "globalOrder": 179
       },
       {
         "name": "Tar Capacity I",
@@ -2335,7 +2693,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/2b64e2f1565b01.svg",
+        "order": 2,
+        "globalOrder": 180
       },
       {
         "name": "Crypt Exploration Efficiency I",
@@ -2353,7 +2713,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/2b2d6164fdf323.svg",
+        "order": 3,
+        "globalOrder": 181
       },
       {
         "name": "Crypts II",
@@ -2362,7 +2724,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/c73371601a7210.svg",
+        "order": 4,
+        "globalOrder": 182
       },
       {
         "name": "Tar Production II",
@@ -2380,7 +2744,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/edff80becd4581.svg",
+        "order": 5,
+        "globalOrder": 183
       },
       {
         "name": "Tar Capacity II",
@@ -2398,7 +2764,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/5a6b3376aa9174.svg",
+        "order": 6,
+        "globalOrder": 184
       },
       {
         "name": "Chance to Explore Twice I",
@@ -2416,7 +2784,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/4c6721d9e43477.svg",
+        "order": 7,
+        "globalOrder": 185
       },
       {
         "name": "Crypt Exploration Cost I",
@@ -2434,7 +2804,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/cbeef3ee706e39.svg",
+        "order": 8,
+        "globalOrder": 186
       },
       {
         "name": "Crypts III",
@@ -2443,7 +2815,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/0b989b797fab2e.svg",
+        "order": 9,
+        "globalOrder": 187
       },
       {
         "name": "Tar Production III",
@@ -2461,7 +2835,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/691e4fb9d92d7d.svg",
+        "order": 10,
+        "globalOrder": 188
       },
       {
         "name": "Tar Capacity III",
@@ -2479,7 +2855,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/da2812fb1cccb3.svg",
+        "order": 11,
+        "globalOrder": 189
       },
       {
         "name": "Crypt Exploration Efficiency II",
@@ -2497,7 +2875,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/6ad80640923e67.svg",
+        "order": 12,
+        "globalOrder": 190
       },
       {
         "name": "Captain Carter",
@@ -2506,7 +2886,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/b8726f54343528.svg",
+        "order": 13,
+        "globalOrder": 191
       },
       {
         "name": "Crypts IV",
@@ -2515,7 +2897,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/08f917707d5725.svg",
+        "order": 14,
+        "globalOrder": 192
       },
       {
         "name": "Crypt Exploration Efficiency III",
@@ -2533,7 +2917,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/7f08fd66c06178.svg",
+        "order": 15,
+        "globalOrder": 193
       },
       {
         "name": "Crypt Exploration Cost II",
@@ -2551,7 +2937,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/2f052e526b6bce.svg",
+        "order": 16,
+        "globalOrder": 194
       },
       {
         "name": "Chance to Explore Twice II",
@@ -2569,7 +2957,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/8b88c63fb82355.svg",
+        "order": 17,
+        "globalOrder": 195
       },
       {
         "name": "Crypts V",
@@ -2578,7 +2968,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/6a21a62cd4732e.svg",
+        "order": 18,
+        "globalOrder": 196
       },
       {
         "name": "Tar Capacity IV",
@@ -2596,7 +2988,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/1b281e5ad52f7b.svg",
+        "order": 19,
+        "globalOrder": 197
       },
       {
         "name": "Tar Production IV",
@@ -2614,7 +3008,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/692714599b912b.svg",
+        "order": 20,
+        "globalOrder": 198
       },
       {
         "name": "Common Crypt Exploration Efficiency I",
@@ -2632,7 +3028,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/fde0e0f9b92a09.svg",
+        "order": 21,
+        "globalOrder": 199
       },
       {
         "name": "Common Crypt Exploration Cost I",
@@ -2650,7 +3048,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/ca0dcfd0ac974d.svg",
+        "order": 22,
+        "globalOrder": 200
       },
       {
         "name": "Rare Crypt Exploration Efficiency I",
@@ -2668,7 +3068,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/538d2ec2838a87.svg",
+        "order": 23,
+        "globalOrder": 201
       },
       {
         "name": "Rare Crypt Exploration Cost I",
@@ -2686,7 +3088,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/12ae0d1ec2e809.svg",
+        "order": 24,
+        "globalOrder": 202
       },
       {
         "name": "Epic Crypt Exploration Efficiency I",
@@ -2704,7 +3108,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/2821b9919d65f8.svg",
+        "order": 25,
+        "globalOrder": 203
       },
       {
         "name": "Epic Crypt Exploration Cost I",
@@ -2722,7 +3128,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/70204d504fe36e.svg",
+        "order": 26,
+        "globalOrder": 204
       },
       {
         "name": "Crypts VI",
@@ -2731,7 +3139,9 @@
         "curve": [
           "9B"
         ],
-        "image": ""
+        "image": "images/9475f6d4f9e632.svg",
+        "order": 27,
+        "globalOrder": 205
       },
       {
         "name": "Tar Production V",
@@ -2749,7 +3159,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/f337cbf2b91b3e.svg",
+        "order": 28,
+        "globalOrder": 206
       },
       {
         "name": "Tar Capacity V",
@@ -2767,7 +3179,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/5732a894cd0e21.svg",
+        "order": 29,
+        "globalOrder": 207
       },
       {
         "name": "Common Crypt Exploration Efficiency II",
@@ -2785,7 +3199,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/5d5c2602a35b16.svg",
+        "order": 30,
+        "globalOrder": 208
       },
       {
         "name": "Common Crypt Exploration Cost II",
@@ -2803,7 +3219,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/9b0da580afe99d.svg",
+        "order": 31,
+        "globalOrder": 209
       },
       {
         "name": "Rare Crypt Exploration Efficiency II",
@@ -2821,7 +3239,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/cd973c309c9239.svg",
+        "order": 32,
+        "globalOrder": 210
       },
       {
         "name": "Rare Crypt Exploration Cost II",
@@ -2839,7 +3259,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/43d05086c9d41f.svg",
+        "order": 33,
+        "globalOrder": 211
       },
       {
         "name": "Epic Crypt Exploration Efficiency II",
@@ -2857,7 +3279,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/393204371d99a9.svg",
+        "order": 34,
+        "globalOrder": 212
       },
       {
         "name": "Epic Crypt Exploration Cost II",
@@ -2875,7 +3299,9 @@
           "120B",
           "170B"
         ],
-        "image": ""
+        "image": "images/0c6ea0171d4331.svg",
+        "order": 35,
+        "globalOrder": 213
       },
       {
         "name": "Crypts VII",
@@ -2884,7 +3310,9 @@
         "curve": [
           "90B"
         ],
-        "image": ""
+        "image": "images/8636f8caa43883.svg",
+        "order": 36,
+        "globalOrder": 214
       }
     ]
   },
@@ -2911,7 +3339,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/75944fa57ba193.svg",
+        "order": 1,
+        "globalOrder": 215
       },
       {
         "name": "Equipment Crafting Speed I",
@@ -2929,7 +3359,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/4bbc2f55ad9a86.svg",
+        "order": 2,
+        "globalOrder": 216
       },
       {
         "name": "Combining Gems I",
@@ -2938,7 +3370,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/02a988a1eace96.svg",
+        "order": 3,
+        "globalOrder": 217
       },
       {
         "name": "Combining Enchantments I",
@@ -2947,7 +3381,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/393fcf51f89101.svg",
+        "order": 4,
+        "globalOrder": 218
       },
       {
         "name": "Gem Crafting I",
@@ -2956,7 +3392,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/bcfa09fbf11c15.svg",
+        "order": 5,
+        "globalOrder": 219
       },
       {
         "name": "Gem and Enchantment Socketing I",
@@ -2965,7 +3403,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/662552574fb78d.svg",
+        "order": 6,
+        "globalOrder": 220
       },
       {
         "name": "Material Quality Choice I",
@@ -2974,7 +3414,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/e4377188bef1c7.svg",
+        "order": 7,
+        "globalOrder": 221
       },
       {
         "name": "Increased Equipment Durability I",
@@ -2983,7 +3425,9 @@
         "curve": [
           "450K"
         ],
-        "image": ""
+        "image": "images/3c77a0046aadcb.svg",
+        "order": 8,
+        "globalOrder": 222
       },
       {
         "name": "Enchantment Saving Chance I",
@@ -3001,7 +3445,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/6ca75fc5d39d01.svg",
+        "order": 9,
+        "globalOrder": 223
       },
       {
         "name": "Gem Saving Chance I",
@@ -3019,7 +3465,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/a6606521188f2b.svg",
+        "order": 10,
+        "globalOrder": 224
       },
       {
         "name": "Equipment Repair Cost I",
@@ -3037,7 +3485,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/f1a2d72c2fd69f.svg",
+        "order": 11,
+        "globalOrder": 225
       },
       {
         "name": "Enchantment Crafting Speed II",
@@ -3055,7 +3505,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/0166b068a6e748.svg",
+        "order": 12,
+        "globalOrder": 226
       },
       {
         "name": "Material Saving Chance I",
@@ -3073,7 +3525,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/512d884d9c2e31.svg",
+        "order": 13,
+        "globalOrder": 227
       },
       {
         "name": "Combining Gems II",
@@ -3082,7 +3536,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/488e10f1fca024.svg",
+        "order": 14,
+        "globalOrder": 228
       },
       {
         "name": "Combining Enchantments II",
@@ -3091,7 +3547,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/1540abd06c9fba.svg",
+        "order": 15,
+        "globalOrder": 229
       },
       {
         "name": "Gem Crafting II",
@@ -3100,7 +3558,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/a2b343ac7e030b.svg",
+        "order": 16,
+        "globalOrder": 230
       },
       {
         "name": "Gem and Enchantment Socketing II",
@@ -3109,7 +3569,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/b34f99794caf8e.svg",
+        "order": 17,
+        "globalOrder": 231
       },
       {
         "name": "Material Quality Choice II",
@@ -3118,7 +3580,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/20626ed54f3da0.svg",
+        "order": 18,
+        "globalOrder": 232
       },
       {
         "name": "Increased Equipment Durability II",
@@ -3127,7 +3591,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/9412c772cea64c.svg",
+        "order": 19,
+        "globalOrder": 233
       },
       {
         "name": "Enchantment Saving Chance II",
@@ -3145,7 +3611,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/6e4b54f3660f88.svg",
+        "order": 20,
+        "globalOrder": 234
       },
       {
         "name": "Gem Saving Chance II",
@@ -3163,7 +3631,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/61bbc50350b15c.svg",
+        "order": 21,
+        "globalOrder": 235
       },
       {
         "name": "Equipment Crafting Cost II",
@@ -3181,7 +3651,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/2ffb2f1d8901e0.svg",
+        "order": 22,
+        "globalOrder": 236
       },
       {
         "name": "Equipment Crafting Speed III",
@@ -3199,7 +3671,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/38acb6c326df81.svg",
+        "order": 23,
+        "globalOrder": 237
       },
       {
         "name": "Equipment Repair Cost II",
@@ -3217,7 +3691,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/4eac6f3dd8642c.svg",
+        "order": 24,
+        "globalOrder": 238
       },
       {
         "name": "Material Saving Chance II",
@@ -3235,7 +3711,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/9dc59a18b0d37c.svg",
+        "order": 25,
+        "globalOrder": 239
       },
       {
         "name": "Combining Gems III",
@@ -3244,7 +3722,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/c7d31627d462a8.svg",
+        "order": 26,
+        "globalOrder": 240
       },
       {
         "name": "Combing Enchantments III",
@@ -3253,7 +3733,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/390af5b56916e8.svg",
+        "order": 27,
+        "globalOrder": 241
       },
       {
         "name": "Gem Crafting III",
@@ -3262,7 +3744,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/85f192ed8b0148.svg",
+        "order": 28,
+        "globalOrder": 242
       },
       {
         "name": "Gem and Enchantment Socketing III",
@@ -3271,7 +3755,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/e416014f729f26.svg",
+        "order": 29,
+        "globalOrder": 243
       },
       {
         "name": "Equipment Durability Increase III",
@@ -3280,7 +3766,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/b0383d6a000d93.svg",
+        "order": 30,
+        "globalOrder": 244
       },
       {
         "name": "Material Quality Choice III",
@@ -3289,7 +3777,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/c6028c93f257c6.svg",
+        "order": 31,
+        "globalOrder": 245
       },
       {
         "name": "Equipment Repair Cost III",
@@ -3307,7 +3797,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/08387e507ca220.svg",
+        "order": 32,
+        "globalOrder": 246
       },
       {
         "name": "Gem Saving Chance III",
@@ -3325,7 +3817,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/c0e8403f8d3e80.svg",
+        "order": 33,
+        "globalOrder": 247
       },
       {
         "name": "Enchantment Saving Chance III",
@@ -3343,7 +3837,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/871e254749b7f9.svg",
+        "order": 34,
+        "globalOrder": 248
       },
       {
         "name": "Equipment Crafting Cost III",
@@ -3361,7 +3857,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/37b3e524ca16d1.svg",
+        "order": 35,
+        "globalOrder": 249
       },
       {
         "name": "Material Saving Chance III",
@@ -3379,7 +3877,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/9c93548f1e1d60.svg",
+        "order": 36,
+        "globalOrder": 250
       },
       {
         "name": "Equipment Repair Cost IV",
@@ -3397,7 +3897,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/dd39e96b61e0d0.svg",
+        "order": 37,
+        "globalOrder": 251
       },
       {
         "name": "Combining Gems IV",
@@ -3406,7 +3908,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/2584cccd7ae9a7.svg",
+        "order": 38,
+        "globalOrder": 252
       },
       {
         "name": "Combining Enchantments IV",
@@ -3415,7 +3919,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/84b9cbaace5857.svg",
+        "order": 39,
+        "globalOrder": 253
       },
       {
         "name": "Gem Crafting IV",
@@ -3424,7 +3930,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/200f3c59de5994.svg",
+        "order": 40,
+        "globalOrder": 254
       },
       {
         "name": "Gem and Enchantment Socketing IV",
@@ -3433,7 +3941,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/73b0fca5c964cd.svg",
+        "order": 41,
+        "globalOrder": 255
       },
       {
         "name": "Equipment Durability Increase IV",
@@ -3442,7 +3952,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/59e8c718efa225.svg",
+        "order": 42,
+        "globalOrder": 256
       },
       {
         "name": "Material Quality Choice IV",
@@ -3451,7 +3963,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/490ce0bfa3c286.svg",
+        "order": 43,
+        "globalOrder": 257
       },
       {
         "name": "Material Saving Chance IV",
@@ -3469,7 +3983,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/3c33e196e3fab0.svg",
+        "order": 44,
+        "globalOrder": 258
       },
       {
         "name": "Enchantment Saving Chance IV",
@@ -3487,7 +4003,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/49db3908be82ae.svg",
+        "order": 45,
+        "globalOrder": 259
       },
       {
         "name": "Gem Saving Chance IV",
@@ -3505,7 +4023,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/9dd05c586e9dbe.svg",
+        "order": 46,
+        "globalOrder": 260
       }
     ]
   },
@@ -3532,7 +4052,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/2462a839649dfb.svg",
+        "order": 1,
+        "globalOrder": 261
       },
       {
         "name": "Army Health I",
@@ -3550,7 +4072,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/be30fa8978de74.svg",
+        "order": 2,
+        "globalOrder": 262
       },
       {
         "name": "Strength of Fortifications I",
@@ -3568,7 +4092,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/fa261801ccdcae.svg",
+        "order": 3,
+        "globalOrder": 263
       },
       {
         "name": "Mounted Units’ Strength I",
@@ -3586,7 +4112,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/5a3ba21d0db0d8.svg",
+        "order": 4,
+        "globalOrder": 264
       },
       {
         "name": "Melee Units’ Strength I",
@@ -3604,7 +4132,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/b1c01133a59823.svg",
+        "order": 5,
+        "globalOrder": 265
       },
       {
         "name": "Ranged Units’ Strength I",
@@ -3622,7 +4152,9 @@
           "100K",
           "190K"
         ],
-        "image": ""
+        "image": "images/6763b2f725e558.svg",
+        "order": 6,
+        "globalOrder": 266
       },
       {
         "name": "Siege Engines’ Strength I",
@@ -3640,7 +4172,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/91109a7131f113.svg",
+        "order": 7,
+        "globalOrder": 267
       },
       {
         "name": "Health of Fortifications I",
@@ -3658,7 +4192,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/e48e21e3c9c608.svg",
+        "order": 8,
+        "globalOrder": 268
       },
       {
         "name": "Flying Units’ Strength I",
@@ -3676,7 +4212,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/9604980e4e9176.svg",
+        "order": 9,
+        "globalOrder": 269
       },
       {
         "name": "Flying Units’ Health I",
@@ -3694,7 +4232,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/c847d0e3712be2.svg",
+        "order": 10,
+        "globalOrder": 270
       },
       {
         "name": "Scouts’ Strength I",
@@ -3712,7 +4252,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/00c161f4526611.svg",
+        "order": 11,
+        "globalOrder": 271
       },
       {
         "name": "Ranged Units’ Health I",
@@ -3730,7 +4272,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/d442dcda921210.svg",
+        "order": 12,
+        "globalOrder": 272
       },
       {
         "name": "Mounted Units’ Health I",
@@ -3748,7 +4292,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/5ca5b37e74ed00.svg",
+        "order": 13,
+        "globalOrder": 273
       },
       {
         "name": "Melee Units’ Health I",
@@ -3766,7 +4312,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/e93d26377f99bb.svg",
+        "order": 14,
+        "globalOrder": 274
       },
       {
         "name": "Siege Engines’ Health I",
@@ -3784,7 +4332,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/a92a6dd392f6d3.svg",
+        "order": 15,
+        "globalOrder": 275
       },
       {
         "name": "Flying Units’ Strength II",
@@ -3802,7 +4352,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/6b388e87d835f9.svg",
+        "order": 16,
+        "globalOrder": 276
       },
       {
         "name": "Scouts’ Health I",
@@ -3820,7 +4372,9 @@
           "1.4M",
           "2M"
         ],
-        "image": ""
+        "image": "images/54e98b24079525.svg",
+        "order": 17,
+        "globalOrder": 277
       },
       {
         "name": "Flying Units’ Health II",
@@ -3838,7 +4392,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/a4361faab26f45.svg",
+        "order": 18,
+        "globalOrder": 278
       },
       {
         "name": "Ranged Units’ Strength II",
@@ -3856,7 +4412,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/d3445dbd000765.svg",
+        "order": 19,
+        "globalOrder": 279
       },
       {
         "name": "Mounted Units’ Strength II",
@@ -3874,7 +4432,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/699e64367a146b.svg",
+        "order": 20,
+        "globalOrder": 280
       },
       {
         "name": "Melee Units’ Strength II",
@@ -3892,7 +4452,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/2da0d148f5e78d.svg",
+        "order": 21,
+        "globalOrder": 281
       },
       {
         "name": "Ranged Units’ Health II",
@@ -3910,7 +4472,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/6849194d5e866d.svg",
+        "order": 22,
+        "globalOrder": 282
       },
       {
         "name": "Mounted Units’ Health II",
@@ -3928,7 +4492,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/d03472390abe3a.svg",
+        "order": 23,
+        "globalOrder": 283
       },
       {
         "name": "Melee Units’ Health II",
@@ -3946,7 +4512,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/8f8ce87f0127a7.svg",
+        "order": 24,
+        "globalOrder": 284
       },
       {
         "name": "Siege Engines’ Strength II",
@@ -3964,7 +4532,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/c56b4a92032f8f.svg",
+        "order": 25,
+        "globalOrder": 285
       },
       {
         "name": "Siege Engines’ Health II",
@@ -3982,7 +4552,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/617f76889f7b99.svg",
+        "order": 26,
+        "globalOrder": 286
       },
       {
         "name": "Captain Proscope",
@@ -3991,7 +4563,9 @@
         "curve": [
           "22M"
         ],
-        "image": ""
+        "image": "images/ea735b9710849f.svg",
+        "order": 27,
+        "globalOrder": 287
       },
       {
         "name": "Strength of Fortifications II",
@@ -4009,7 +4583,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/c1cee7d18d037e.svg",
+        "order": 28,
+        "globalOrder": 288
       },
       {
         "name": "Health of Fortifications II",
@@ -4027,7 +4603,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/15095c82fde939.svg",
+        "order": 29,
+        "globalOrder": 289
       },
       {
         "name": "Scouts’ Strength II",
@@ -4045,7 +4623,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/0052f56ba6fd98.svg",
+        "order": 30,
+        "globalOrder": 290
       },
       {
         "name": "Scouts’ Health II",
@@ -4063,7 +4643,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/558a615d918b3c.svg",
+        "order": 31,
+        "globalOrder": 291
       },
       {
         "name": "Ranged Units’ Strength III",
@@ -4081,7 +4663,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/7c4bf9b4d13b17.svg",
+        "order": 32,
+        "globalOrder": 292
       },
       {
         "name": "Mounted Units’ Strength III",
@@ -4099,7 +4683,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/1ff2b5e6284787.svg",
+        "order": 33,
+        "globalOrder": 293
       },
       {
         "name": "Melee Units Strength III",
@@ -4117,7 +4703,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/5a2ed477e083f4.svg",
+        "order": 34,
+        "globalOrder": 294
       },
       {
         "name": "Ranged Units’ Health III",
@@ -4135,7 +4723,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/22fce0abe078cd.svg",
+        "order": 35,
+        "globalOrder": 295
       },
       {
         "name": "Mounted Units’ Health III",
@@ -4153,7 +4743,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/50de88112b953c.svg",
+        "order": 36,
+        "globalOrder": 296
       },
       {
         "name": "Melee Units Health III",
@@ -4171,7 +4763,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/61ca77d3df1cd3.svg",
+        "order": 37,
+        "globalOrder": 297
       },
       {
         "name": "Flying Units’ Strength III",
@@ -4189,7 +4783,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/0ad70d1a4b9c93.svg",
+        "order": 38,
+        "globalOrder": 298
       },
       {
         "name": "Flying Units’ Health III",
@@ -4207,7 +4803,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/252c6f1c1422aa.svg",
+        "order": 39,
+        "globalOrder": 299
       },
       {
         "name": "Siege Engines’ Strength III",
@@ -4225,7 +4823,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/e8561a4c858022.svg",
+        "order": 40,
+        "globalOrder": 300
       },
       {
         "name": "Siege Engines’ Health III",
@@ -4243,7 +4843,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/63ece4abf745fd.svg",
+        "order": 41,
+        "globalOrder": 301
       },
       {
         "name": "Strength of Fortifications III",
@@ -4261,7 +4863,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/67df3d1d4a8906.svg",
+        "order": 42,
+        "globalOrder": 302
       },
       {
         "name": "Health of Fortifications III",
@@ -4279,7 +4883,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/7881413fa1f61e.svg",
+        "order": 43,
+        "globalOrder": 303
       },
       {
         "name": "Scouts’ Strength III",
@@ -4297,7 +4903,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/5e404a25530f5d.svg",
+        "order": 44,
+        "globalOrder": 304
       },
       {
         "name": "Scouts’s Health III",
@@ -4315,7 +4923,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/231d96ff1f610e.svg",
+        "order": 45,
+        "globalOrder": 305
       },
       {
         "name": "Ranged Units’ Strength IV",
@@ -4333,7 +4943,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/0e01b194c61cd6.svg",
+        "order": 46,
+        "globalOrder": 306
       },
       {
         "name": "Mounted Units’ Strength IV",
@@ -4351,7 +4963,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/f31d0299161727.svg",
+        "order": 47,
+        "globalOrder": 307
       },
       {
         "name": "Melee Units’ Strength IV",
@@ -4369,7 +4983,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/6078fa0d04e969.svg",
+        "order": 48,
+        "globalOrder": 308
       },
       {
         "name": "Ranged Units’ Health IV",
@@ -4387,7 +5003,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/85b7d6892f1bf1.svg",
+        "order": 49,
+        "globalOrder": 309
       },
       {
         "name": "Mounted Units’ Health IV",
@@ -4405,7 +5023,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/f01a2cae072bee.svg",
+        "order": 50,
+        "globalOrder": 310
       },
       {
         "name": "Melee Units’ Health IV",
@@ -4423,7 +5043,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/195556f6e467e7.svg",
+        "order": 51,
+        "globalOrder": 311
       },
       {
         "name": "Flying Units’ Health IV",
@@ -4441,7 +5063,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/52c1bb514e64ab.svg",
+        "order": 52,
+        "globalOrder": 312
       },
       {
         "name": "Flying Units’ Strength IV",
@@ -4459,7 +5083,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/89ef0625c60fbf.svg",
+        "order": 53,
+        "globalOrder": 313
       },
       {
         "name": "Siege Engines’ Strength IV",
@@ -4477,7 +5103,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/5c7b9b8bd0dcb0.svg",
+        "order": 54,
+        "globalOrder": 314
       },
       {
         "name": "Siege Engines’ Health IV",
@@ -4495,7 +5123,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/90e6de03317fb1.svg",
+        "order": 55,
+        "globalOrder": 315
       },
       {
         "name": "Strength of Fortifications IV",
@@ -4513,7 +5143,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/c53ec6e7ac2c28.svg",
+        "order": 56,
+        "globalOrder": 316
       },
       {
         "name": "Health of Fortifications IV",
@@ -4531,7 +5163,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/67d2ddd2fce660.svg",
+        "order": 57,
+        "globalOrder": 317
       },
       {
         "name": "Scouts’ Strength IV",
@@ -4549,7 +5183,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/13b0401aee6ffa.svg",
+        "order": 58,
+        "globalOrder": 318
       },
       {
         "name": "Scouts’ Health IV",
@@ -4567,7 +5203,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/9c0ca12e08a5e1.svg",
+        "order": 59,
+        "globalOrder": 319
       },
       {
         "name": "Ranged Units’ Health V",
@@ -4585,7 +5223,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/f25da2ec864da2.svg",
+        "order": 60,
+        "globalOrder": 320
       },
       {
         "name": "Mounted Units’ Strength V",
@@ -4603,7 +5243,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/ffdd06dc2540eb.svg",
+        "order": 61,
+        "globalOrder": 321
       },
       {
         "name": "Melee Units’ Strength V",
@@ -4621,7 +5263,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/e2df75fda3432e.svg",
+        "order": 62,
+        "globalOrder": 322
       },
       {
         "name": "Siege Engines’ Strength V",
@@ -4639,7 +5283,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/0f94c93e30be17.svg",
+        "order": 63,
+        "globalOrder": 323
       },
       {
         "name": "Siege Engines’ Health V",
@@ -4657,7 +5303,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/a0eb0f86ae7f6e.svg",
+        "order": 64,
+        "globalOrder": 324
       },
       {
         "name": "Strength of Fortifications V",
@@ -4675,7 +5323,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/a855f2a423d127.svg",
+        "order": 65,
+        "globalOrder": 325
       },
       {
         "name": "Health of Fortifications V",
@@ -4693,7 +5343,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/bc40c628310966.svg",
+        "order": 66,
+        "globalOrder": 326
       },
       {
         "name": "Scouts’ Strength V",
@@ -4711,7 +5363,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/43b71c329ac94b.svg",
+        "order": 67,
+        "globalOrder": 327
       },
       {
         "name": "Scouts’ Health V",
@@ -4729,7 +5383,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/e09cb1f8e07f0a.svg",
+        "order": 68,
+        "globalOrder": 328
       },
       {
         "name": "Ranged Units’ Health V",
@@ -4747,7 +5403,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/ranged_units_health_v_2.svg",
+        "order": 69,
+        "globalOrder": 329
       },
       {
         "name": "Mounted Units’ Health V",
@@ -4765,7 +5423,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/6357692c2c0b90.svg",
+        "order": 70,
+        "globalOrder": 330
       },
       {
         "name": "Melee Units’ Health V",
@@ -4783,7 +5443,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/c5f7acf249a7c5.svg",
+        "order": 71,
+        "globalOrder": 331
       },
       {
         "name": "Flying Units’ Strength V",
@@ -4801,7 +5463,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/b2a2db3ef42d17.svg",
+        "order": 72,
+        "globalOrder": 332
       },
       {
         "name": "Flying Units’ Health V",
@@ -4819,7 +5483,9 @@
           "41B",
           "56B"
         ],
-        "image": ""
+        "image": "images/304aeab4d8f456.svg",
+        "order": 73,
+        "globalOrder": 333
       }
     ]
   },
@@ -4846,7 +5512,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/b5ddc5fd5556cd.svg",
+        "order": 1,
+        "globalOrder": 334
       },
       {
         "name": "Iron Production I",
@@ -4864,7 +5532,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/363eff9b48f103.svg",
+        "order": 2,
+        "globalOrder": 335
       },
       {
         "name": "Lumber Production I",
@@ -4882,7 +5552,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/2dead6e91f5f5f.svg",
+        "order": 3,
+        "globalOrder": 336
       },
       {
         "name": "Warehouse Capacity I",
@@ -4900,7 +5572,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/72c43ac181ba57.svg",
+        "order": 4,
+        "globalOrder": 337
       },
       {
         "name": "Construction Speed I",
@@ -4918,7 +5592,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/6299f8ffd19564.svg",
+        "order": 5,
+        "globalOrder": 338
       },
       {
         "name": "Training Queue Limit I",
@@ -4936,7 +5612,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/9f08e1b41fc23a.svg",
+        "order": 6,
+        "globalOrder": 339
       },
       {
         "name": "Food Production I",
@@ -4954,7 +5632,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/387f1095863c9b.svg",
+        "order": 7,
+        "globalOrder": 340
       },
       {
         "name": "Silver Production I",
@@ -4972,7 +5652,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/ee93df31f72a53.svg",
+        "order": 8,
+        "globalOrder": 341
       },
       {
         "name": "Research Speed I",
@@ -4990,7 +5672,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/0dafec83b36f77.svg",
+        "order": 9,
+        "globalOrder": 342
       },
       {
         "name": "Sacred Potion Production I",
@@ -5008,7 +5692,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/f59fa750bc0d3e.svg",
+        "order": 10,
+        "globalOrder": 343
       },
       {
         "name": "Stone Production II",
@@ -5026,7 +5712,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/5e1e941a22f981.svg",
+        "order": 11,
+        "globalOrder": 344
       },
       {
         "name": "Iron Production II",
@@ -5044,7 +5732,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/56d92b96027477.svg",
+        "order": 12,
+        "globalOrder": 345
       },
       {
         "name": "Lumber Production II",
@@ -5062,7 +5752,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/66d8fab6b316cb.svg",
+        "order": 13,
+        "globalOrder": 346
       },
       {
         "name": "Warehouse Capacity II",
@@ -5080,7 +5772,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/d7f938da7b179b.svg",
+        "order": 14,
+        "globalOrder": 347
       },
       {
         "name": "Training Queue Limit II",
@@ -5098,7 +5792,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/22906e3d5ec983.svg",
+        "order": 15,
+        "globalOrder": 348
       },
       {
         "name": "Silver Production II",
@@ -5116,7 +5812,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/3aee44ffae9fe5.svg",
+        "order": 16,
+        "globalOrder": 349
       },
       {
         "name": "Food Production II",
@@ -5134,7 +5832,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/1a00e71c8d19c3.svg",
+        "order": 17,
+        "globalOrder": 350
       },
       {
         "name": "Research Speed II",
@@ -5152,7 +5852,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/dcebca42e10142.svg",
+        "order": 18,
+        "globalOrder": 351
       },
       {
         "name": "Construction Speed II",
@@ -5170,7 +5872,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/fda050ec5895e6.svg",
+        "order": 19,
+        "globalOrder": 352
       },
       {
         "name": "Sacred Potion II",
@@ -5188,7 +5892,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/28541db32377f1.svg",
+        "order": 20,
+        "globalOrder": 353
       },
       {
         "name": "Stone Production III",
@@ -5206,7 +5912,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/764e7d9460cad3.svg",
+        "order": 21,
+        "globalOrder": 354
       },
       {
         "name": "Iron Production III",
@@ -5224,7 +5932,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/24bf0e4a861afb.svg",
+        "order": 22,
+        "globalOrder": 355
       },
       {
         "name": "Lumber Production III",
@@ -5242,7 +5952,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/4475c9b76ff6b3.svg",
+        "order": 23,
+        "globalOrder": 356
       },
       {
         "name": "Training Queue Limit III",
@@ -5260,7 +5972,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/4fe0748cfde528.svg",
+        "order": 24,
+        "globalOrder": 357
       },
       {
         "name": "Warehouse Capacity III",
@@ -5278,7 +5992,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/16b50652357603.svg",
+        "order": 25,
+        "globalOrder": 358
       },
       {
         "name": "Construction III",
@@ -5296,7 +6012,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/23ccac3a8ce0ad.svg",
+        "order": 26,
+        "globalOrder": 359
       },
       {
         "name": "Food Production III",
@@ -5314,7 +6032,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/ff240931088e6b.svg",
+        "order": 27,
+        "globalOrder": 360
       },
       {
         "name": "Silver Production III",
@@ -5332,7 +6052,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/247aafe0f8dea4.svg",
+        "order": 28,
+        "globalOrder": 361
       },
       {
         "name": "Research Speed III",
@@ -5350,7 +6072,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/9d38abc059a383.svg",
+        "order": 29,
+        "globalOrder": 362
       },
       {
         "name": "Sacred Potion Production III",
@@ -5368,7 +6092,9 @@
           "8.1B",
           "12B"
         ],
-        "image": ""
+        "image": "images/6111a8b3b1c7f9.svg",
+        "order": 30,
+        "globalOrder": 363
       }
     ]
   },
@@ -5395,7 +6121,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/309d573f931f06.svg",
+        "order": 1,
+        "globalOrder": 364
       },
       {
         "name": "Giants’ Strength I",
@@ -5413,7 +6141,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/d5eeaaf63e8adc.svg",
+        "order": 2,
+        "globalOrder": 365
       },
       {
         "name": "Elementals’ Strength I",
@@ -5431,7 +6161,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/6242d898360ce0.svg",
+        "order": 3,
+        "globalOrder": 366
       },
       {
         "name": "Dragons’ Strength I",
@@ -5449,7 +6181,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/5414bef36d058a.svg",
+        "order": 4,
+        "globalOrder": 367
       },
       {
         "name": "Beasts’ Health I",
@@ -5467,7 +6201,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/9cd4df15d154b9.svg",
+        "order": 5,
+        "globalOrder": 368
       },
       {
         "name": "Giants’ Health I",
@@ -5485,7 +6221,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/ca5a841ec7bdd1.svg",
+        "order": 6,
+        "globalOrder": 369
       },
       {
         "name": "Elementals’ Health I",
@@ -5503,7 +6241,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/1807ac8f0b88ff.svg",
+        "order": 7,
+        "globalOrder": 370
       },
       {
         "name": "Dragons’ Health I",
@@ -5521,7 +6261,9 @@
           "24M",
           "34M"
         ],
-        "image": ""
+        "image": "images/881f4fa302cd6c.svg",
+        "order": 8,
+        "globalOrder": 371
       },
       {
         "name": "Beasts’ Strength II",
@@ -5539,7 +6281,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/7603e354384a29.svg",
+        "order": 9,
+        "globalOrder": 372
       },
       {
         "name": "Giants’ Strength II",
@@ -5557,7 +6301,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/c3bb118d60fc96.svg",
+        "order": 10,
+        "globalOrder": 373
       },
       {
         "name": "Elementals’ Strength II",
@@ -5575,7 +6321,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/45fadc802d7f0b.svg",
+        "order": 11,
+        "globalOrder": 374
       },
       {
         "name": "Dragons’ Strength II",
@@ -5593,7 +6341,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/4d462ccb941be1.svg",
+        "order": 12,
+        "globalOrder": 375
       },
       {
         "name": "Beasts’ Health II",
@@ -5611,7 +6361,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/75fa77ee592dd9.svg",
+        "order": 13,
+        "globalOrder": 376
       },
       {
         "name": "Chance for Beasts to Strike Two Squads",
@@ -5629,7 +6381,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/872273dc617d88.svg",
+        "order": 14,
+        "globalOrder": 377
       },
       {
         "name": "Elementals’ Health II",
@@ -5647,7 +6401,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/b8fb9a02dff068.svg",
+        "order": 15,
+        "globalOrder": 378
       },
       {
         "name": "Chance for Elementals to Strike Two Squads",
@@ -5665,7 +6421,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/80d47273114aec.svg",
+        "order": 16,
+        "globalOrder": 379
       },
       {
         "name": "Giants’ Health II",
@@ -5683,7 +6441,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/0cc8dc0f868a31.svg",
+        "order": 17,
+        "globalOrder": 380
       },
       {
         "name": "Chance for Giants to Strike Two Squads",
@@ -5701,7 +6461,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/e02d305bccde6c.svg",
+        "order": 18,
+        "globalOrder": 381
       },
       {
         "name": "Dragons’ Health II",
@@ -5719,7 +6481,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/25a3587419b68d.svg",
+        "order": 19,
+        "globalOrder": 382
       },
       {
         "name": "Chance for Dragons to Strike Two Squads",
@@ -5737,7 +6501,9 @@
           "280M",
           "390M"
         ],
-        "image": ""
+        "image": "images/e5115ec438071f.svg",
+        "order": 20,
+        "globalOrder": 383
       },
       {
         "name": "Beasts’ Strength III",
@@ -5755,7 +6521,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/7bf2a2eef37297.svg",
+        "order": 21,
+        "globalOrder": 384
       },
       {
         "name": "Chance for Beasts to Block a Strike",
@@ -5773,7 +6541,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/3145f952bd1e05.svg",
+        "order": 22,
+        "globalOrder": 385
       },
       {
         "name": "Beasts’ Health III",
@@ -5791,7 +6561,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/8bfa8a46d73587.svg",
+        "order": 23,
+        "globalOrder": 386
       },
       {
         "name": "Elementals’ Strength III",
@@ -5809,7 +6581,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/3ef68bb17305d2.svg",
+        "order": 24,
+        "globalOrder": 387
       },
       {
         "name": "Chance for Elementals to Block a Strike",
@@ -5827,7 +6601,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/8aad91e0609e12.svg",
+        "order": 25,
+        "globalOrder": 388
       },
       {
         "name": "Elementals’ Health III",
@@ -5845,7 +6621,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/b0254d7b1ab3da.svg",
+        "order": 26,
+        "globalOrder": 389
       },
       {
         "name": "Giants’ Strength III",
@@ -5863,7 +6641,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/4bbf56c11e276a.svg",
+        "order": 27,
+        "globalOrder": 390
       },
       {
         "name": "Chance for Giants to Block a Strike",
@@ -5881,7 +6661,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/5d09931c41cccd.svg",
+        "order": 28,
+        "globalOrder": 391
       },
       {
         "name": "Giants’ Health III",
@@ -5899,7 +6681,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/bf9b76f6d1e000.svg",
+        "order": 29,
+        "globalOrder": 392
       },
       {
         "name": "Dragons’ Strength III",
@@ -5917,7 +6701,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/88b81493871e2a.svg",
+        "order": 30,
+        "globalOrder": 393
       },
       {
         "name": "Chance for Dragons to Block a Strike",
@@ -5935,7 +6721,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/76afcf22e75a67.svg",
+        "order": 31,
+        "globalOrder": 394
       },
       {
         "name": "Dragons’ Health III",
@@ -5953,7 +6741,9 @@
           "3.4B",
           "4.7B"
         ],
-        "image": ""
+        "image": "images/4499eb8e17fd4d.svg",
+        "order": 32,
+        "globalOrder": 395
       }
     ]
   },
@@ -5980,7 +6770,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/42b72d7e68f148.svg",
+        "order": 1,
+        "globalOrder": 396
       },
       {
         "name": "Troop Marching Range I",
@@ -5998,7 +6790,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/1d2c1d500acbf7.svg",
+        "order": 2,
+        "globalOrder": 397
       },
       {
         "name": "Caravan Speed I",
@@ -6016,7 +6810,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/fb36e66b7f9bf2.svg",
+        "order": 3,
+        "globalOrder": 398
       },
       {
         "name": "Caravan Carrying Capacity I",
@@ -6034,7 +6830,9 @@
           "220K",
           "450K"
         ],
-        "image": ""
+        "image": "images/3ee7f78f63c29e.svg",
+        "order": 4,
+        "globalOrder": 399
       },
       {
         "name": "Portal Duration I",
@@ -6052,7 +6850,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/299929b4b5f067.svg",
+        "order": 5,
+        "globalOrder": 400
       },
       {
         "name": "Crypt March Range I",
@@ -6070,7 +6870,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/8c0a2ad168a613.svg",
+        "order": 6,
+        "globalOrder": 401
       },
       {
         "name": "Maximum Portals",
@@ -6079,7 +6881,9 @@
         "curve": [
           "8.5M"
         ],
-        "image": ""
+        "image": "images/b01c7346d0b872.svg",
+        "order": 7,
+        "globalOrder": 402
       },
       {
         "name": "Resource Gathering Speed II",
@@ -6097,7 +6901,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/d12eb8cb3cac07.svg",
+        "order": 8,
+        "globalOrder": 403
       },
       {
         "name": "Caravan Speed II",
@@ -6115,7 +6921,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/3067db39bc8bcb.svg",
+        "order": 9,
+        "globalOrder": 404
       },
       {
         "name": "Caravan Carrying Capacity II",
@@ -6133,7 +6941,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/b5f46873f7f8ed.svg",
+        "order": 10,
+        "globalOrder": 405
       },
       {
         "name": "Troop Marching Range II",
@@ -6151,7 +6961,9 @@
           "3.2M",
           "4.5M"
         ],
-        "image": ""
+        "image": "images/1d30232adb5297.svg",
+        "order": 11,
+        "globalOrder": 406
       },
       {
         "name": "Resource Gathering Speed III",
@@ -6169,7 +6981,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/b42e84cbc9eceb.svg",
+        "order": 12,
+        "globalOrder": 407
       },
       {
         "name": "Portal Duration II",
@@ -6187,7 +7001,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/5550d2fad51fa6.svg",
+        "order": 13,
+        "globalOrder": 408
       },
       {
         "name": "Maximum Portals II",
@@ -6196,7 +7012,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/ff02707b9eb312.svg",
+        "order": 14,
+        "globalOrder": 409
       },
       {
         "name": "Caravan Speed III",
@@ -6214,7 +7032,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/448dc18221bfd9.svg",
+        "order": 15,
+        "globalOrder": 410
       },
       {
         "name": "Caravan Carrying Capacity III",
@@ -6232,7 +7052,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/d5d3381c7f766f.svg",
+        "order": 16,
+        "globalOrder": 411
       },
       {
         "name": "Crypt March Range II",
@@ -6250,7 +7072,9 @@
           "50M",
           "70M"
         ],
-        "image": ""
+        "image": "images/d08358f5150312.svg",
+        "order": 17,
+        "globalOrder": 412
       },
       {
         "name": "Captain Stror",
@@ -6259,7 +7083,9 @@
         "curve": [
           "80M"
         ],
-        "image": ""
+        "image": "images/6b3c25ffd6ab48.svg",
+        "order": 18,
+        "globalOrder": 413
       },
       {
         "name": "Portal Duration III",
@@ -6277,7 +7103,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/8a40d84a09d27b.svg",
+        "order": 19,
+        "globalOrder": 414
       },
       {
         "name": "Troop Marching Range III",
@@ -6295,7 +7123,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/f2531f6dacfbfc.svg",
+        "order": 20,
+        "globalOrder": 415
       },
       {
         "name": "Maximum Portals III",
@@ -6304,7 +7134,9 @@
         "curve": [
           "900M"
         ],
-        "image": ""
+        "image": "images/2e0e2df5404b74.svg",
+        "order": 21,
+        "globalOrder": 416
       },
       {
         "name": "Crypt March Range III",
@@ -6322,7 +7154,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/ce6e47df7f403d.svg",
+        "order": 22,
+        "globalOrder": 417
       },
       {
         "name": "Resource Gathering on the World Map IV",
@@ -6340,7 +7174,9 @@
           "670M",
           "960M"
         ],
-        "image": ""
+        "image": "images/81f48324d69b29.svg",
+        "order": 23,
+        "globalOrder": 418
       }
     ]
   }
