@@ -1,0 +1,6347 @@
+[
+  {
+    "id": "g1",
+    "name": "Guardsmen I",
+    "currency": "VP",
+    "count": 43,
+    "branch_total": "1.97T",
+    "items": [
+      {
+        "name": "Archers I",
+        "levels": 1,
+        "total": "300",
+        "curve": [
+          "300"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Archer_I.CZSG6er4_Z3Rs5u.webp"
+      },
+      {
+        "name": "Spearmen I",
+        "levels": 1,
+        "total": "300",
+        "curve": [
+          "300"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Spearman_I.DJgZ2v6G_iHgaG.webp"
+      },
+      {
+        "name": "Riders I",
+        "levels": 1,
+        "total": "300",
+        "curve": [
+          "300"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Rider_I.FfrmEz6N_ZUDros.webp"
+      },
+      {
+        "name": "Guardsmen Training Cost I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen Carrying Capacity I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Archers II",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Archer_II.0JAzMrq2_l0azL.webp"
+      },
+      {
+        "name": "Spearmen II",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Spearman_II.CrsakV5D_ZPbct8.webp"
+      },
+      {
+        "name": "Riders II",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Rider_II.WWDxXB0g_Z1YRKL5.webp"
+      },
+      {
+        "name": "Guardsmen Training Cost II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Bernard",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s March Speed I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Lucius",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Archers III",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spearmen III",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Riders III",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s March Speed II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Doria",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s Carrying Capacity II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Archers IV",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spearmen IV",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Riders IV",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s Training Cost III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s March Speed III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s Carrying Capacity III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Archers V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spearmen V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Riders V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Battle Griffin V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Battle_Griffin_V.C99h84ja_Z2gWqKN.webp"
+      },
+      {
+        "name": "Guardsmen’s Training Cost IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Brunhild",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s March Speed IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s Carrying Capacity IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Heavy Arbalester VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Heavy_Arbalester_VI.txXqJIDl_1vM0DG.webp"
+      },
+      {
+        "name": "Heavy Halberdier VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Heavy_Halberdier_VI.DETZynzA_Z1UTyj4.webp"
+      },
+      {
+        "name": "Mounted Knight VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Mounted_Knight_VI.Ck5f-oBL_Lqxs5.webp"
+      },
+      {
+        "name": "Battle Griffin VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Battle_Griffin_VI.CyoxgvPj_19azcx.webp"
+      },
+      {
+        "name": "Guardsmen’s Training Cost V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s March Speed V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s Carrying Capacity V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Heavy Arbalester VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Heavy_Arbalester_VII.DezwUkTG_Z20Xtah.webp"
+      },
+      {
+        "name": "Heavy Halberdier VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Heavy_Halberdier_VII.B3NFJEAQ_Zjpr8Q.webp"
+      },
+      {
+        "name": "Mounted Knight VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Mounted_Knight_VII.DX1c0bXt_1fxnwv.webp"
+      },
+      {
+        "name": "Battle Griffin VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Battle_Griffin_VII.7QUM1PaA_ZmDeiR.webp"
+      }
+    ]
+  },
+  {
+    "id": "g2",
+    "name": "Guardsmen II",
+    "currency": "VP",
+    "count": 14,
+    "branch_total": "176.77T",
+    "items": [
+      {
+        "name": "Guardsmen’s Training Cost VI",
+        "levels": 10,
+        "total": "4.15T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s Carrying Capacity VI",
+        "levels": 10,
+        "total": "4.15T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s March Speed VI",
+        "levels": 10,
+        "total": "4.15T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Purifier I",
+        "levels": 1,
+        "total": "900B",
+        "curve": [
+          "900B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Purifier_VIII.pse-Fu1Q_2wkFVG.webp"
+      },
+      {
+        "name": "Punisher I",
+        "levels": 1,
+        "total": "900B",
+        "curve": [
+          "900B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Punisher_VIII.DWa77y5b_xGhSw.webp"
+      },
+      {
+        "name": "Smiter I",
+        "levels": 1,
+        "total": "900B",
+        "curve": [
+          "900B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Smiter_VIII.B83H8bvD_Z1HT7pi.webp"
+      },
+      {
+        "name": "Corax I",
+        "levels": 1,
+        "total": "900B",
+        "curve": [
+          "900B"
+        ],
+        "image": "https://totalbattlewiki.com/_astro/Corax_VIII.DduC0wu0_2y3hV.webp"
+      },
+      {
+        "name": "Guardsmen’s Training Cost VII",
+        "levels": 10,
+        "total": "41.57T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s Carrying Capacity VII",
+        "levels": 10,
+        "total": "41.57T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Guardsmen’s March Speed VII",
+        "levels": 10,
+        "total": "41.57T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Purifier II",
+        "levels": 1,
+        "total": "9T",
+        "curve": [
+          "9T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Punisher II",
+        "levels": 1,
+        "total": "9T",
+        "curve": [
+          "9T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Smiter II",
+        "levels": 1,
+        "total": "9T",
+        "curve": [
+          "9T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Corax II",
+        "levels": 1,
+        "total": "9T",
+        "curve": [
+          "9T"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "s1",
+    "name": "Specialists I",
+    "currency": "CP",
+    "count": 40,
+    "branch_total": "702.54B",
+    "items": [
+      {
+        "name": "Swordsmen I",
+        "levels": 1,
+        "total": "150",
+        "curve": [
+          "150"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spies I",
+        "levels": 1,
+        "total": "150",
+        "curve": [
+          "150"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Training Cost I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Carrying Capacity I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Swordsmen II",
+        "levels": 1,
+        "total": "120K",
+        "curve": [
+          "120K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spies II",
+        "levels": 1,
+        "total": "120K",
+        "curve": [
+          "120K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists Training Cost II",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Ye Ho-Sung",
+        "levels": 1,
+        "total": "120K",
+        "curve": [
+          "120K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ March Speed I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Swordsmen III",
+        "levels": 1,
+        "total": "2.5M",
+        "curve": [
+          "2.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spies III",
+        "levels": 1,
+        "total": "2.5M",
+        "curve": [
+          "2.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ March Speed II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Dustan",
+        "levels": 1,
+        "total": "22M",
+        "curve": [
+          "22M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Carrying Capacity II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Swordsmen IV",
+        "levels": 1,
+        "total": "22M",
+        "curve": [
+          "22M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spies IV",
+        "levels": 1,
+        "total": "22M",
+        "curve": [
+          "22M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Training Cost III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Carrying Capacity III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ March Speed III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Spies V",
+        "levels": 1,
+        "total": "300M",
+        "curve": [
+          "300M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Vultures V",
+        "levels": 1,
+        "total": "300M",
+        "curve": [
+          "300M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Swordsmen V",
+        "levels": 1,
+        "total": "300M",
+        "curve": [
+          "300M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Deadshots V",
+        "levels": 1,
+        "total": "300M",
+        "curve": [
+          "300M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Lion Riders V",
+        "levels": 1,
+        "total": "300M",
+        "curve": [
+          "300M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Training Cost IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Carrying Capacity IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ March Speed IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Swift Jaeger VI",
+        "levels": 1,
+        "total": "3B",
+        "curve": [
+          "3B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Vultures VI",
+        "levels": 1,
+        "total": "3B",
+        "curve": [
+          "3B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Deadshots VI",
+        "levels": 1,
+        "total": "3B",
+        "curve": [
+          "3B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Heavy Knight VI",
+        "levels": 1,
+        "total": "3B",
+        "curve": [
+          "3B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Lion Riders VI",
+        "levels": 1,
+        "total": "3B",
+        "curve": [
+          "3B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists Training Cost V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Carrying Capacity V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ March Speed V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Swift Jaeger VII",
+        "levels": 1,
+        "total": "30B",
+        "curve": [
+          "30B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Vultures VII",
+        "levels": 1,
+        "total": "30B",
+        "curve": [
+          "30B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Heavy Knight VII",
+        "levels": 1,
+        "total": "30B",
+        "curve": [
+          "30B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Deadshots VII",
+        "levels": 1,
+        "total": "30B",
+        "curve": [
+          "30B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Lion Riders VII",
+        "levels": 1,
+        "total": "30B",
+        "curve": [
+          "30B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "name": "Specialists II",
+    "currency": "CP",
+    "count": 16,
+    "branch_total": "66.05T",
+    "items": [
+      {
+        "name": "Specialists’ Training Cost VI",
+        "levels": 10,
+        "total": "1.5T",
+        "curve": [
+          "6B",
+          "10B",
+          "17B",
+          "28B",
+          "46B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "600B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Carrying Capacity VI",
+        "levels": 10,
+        "total": "1.5T",
+        "curve": [
+          "6B",
+          "10B",
+          "17B",
+          "28B",
+          "46B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "600B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ March Speed VI",
+        "levels": 10,
+        "total": "1.5T",
+        "curve": [
+          "6B",
+          "10B",
+          "17B",
+          "28B",
+          "46B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "600B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Panoptic I",
+        "levels": 1,
+        "total": "300B",
+        "curve": [
+          "300B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Royal Lion I",
+        "levels": 1,
+        "total": "300B",
+        "curve": [
+          "300B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Duelist I",
+        "levels": 1,
+        "total": "300B",
+        "curve": [
+          "300B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Legitimist I",
+        "levels": 1,
+        "total": "300B",
+        "curve": [
+          "300B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Whitemane I",
+        "levels": 1,
+        "total": "300B",
+        "curve": [
+          "300B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Training Cost VII",
+        "levels": 10,
+        "total": "15.01T",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ Carrying Capacity VII",
+        "levels": 10,
+        "total": "15.01T",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Specialists’ March Speed VII",
+        "levels": 10,
+        "total": "15.01T",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Panoptic II",
+        "levels": 1,
+        "total": "3T",
+        "curve": [
+          "3T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Royal Lion II",
+        "levels": 1,
+        "total": "3T",
+        "curve": [
+          "3T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Duelist II",
+        "levels": 1,
+        "total": "3T",
+        "curve": [
+          "3T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Legitimist II",
+        "levels": 1,
+        "total": "3T",
+        "curve": [
+          "3T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Whitemane II",
+        "levels": 1,
+        "total": "3T",
+        "curve": [
+          "3T"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "e1",
+    "name": "Engineer Corps I",
+    "currency": "VP",
+    "count": 30,
+    "branch_total": "1.77T",
+    "items": [
+      {
+        "name": "City Walls I",
+        "levels": 1,
+        "total": "300",
+        "curve": [
+          "300"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Catapults I",
+        "levels": 1,
+        "total": "300",
+        "curve": [
+          "300"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Training Cost I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Carrying Capacity I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "City Walls II",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Catapults II",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Training Cost II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Brann",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ March Speed I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "City Walls III",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Catapults III",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ March Speed II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Carrying Capacity II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "City Walls IV",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Catapults IV",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Training Cost III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ March Speed III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Carrying Capacity III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "City Walls V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Catapults V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Training Cost IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ March Speed IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Carrying Capacity IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "City Walls VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ballistae VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Training Cost V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ March Speed V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Carrying Capacity V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "City Walls VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ballistae VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "e2",
+    "name": "Engineer Corps II",
+    "currency": "VP",
+    "count": 10,
+    "branch_total": "156.61T",
+    "items": [
+      {
+        "name": "Siege Engines’ Training Cost VI",
+        "levels": 10,
+        "total": "4.14T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ March Speed VI",
+        "levels": 10,
+        "total": "4.14T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Carrying Capacity VI",
+        "levels": 10,
+        "total": "4.14T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Fortress Walls I",
+        "levels": 1,
+        "total": "900B",
+        "curve": [
+          "900B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Josephine I",
+        "levels": 1,
+        "total": "900B",
+        "curve": [
+          "900B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Training Cost VII",
+        "levels": 10,
+        "total": "41.46T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Marching Speed VII",
+        "levels": 10,
+        "total": "41.46T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Carrying Capacity VII",
+        "levels": 10,
+        "total": "41.46T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Fortress Walls II",
+        "levels": 1,
+        "total": "9T",
+        "curve": [
+          "9T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Josephine II",
+        "levels": 1,
+        "total": "9T",
+        "curve": [
+          "9T"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "m1",
+    "name": "Monsters I",
+    "currency": "VP",
+    "count": 17,
+    "branch_total": "987.48B",
+    "items": [
+      {
+        "name": "Monster III",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ Cost I",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ March Speed I",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ Carrying Capacity I",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters IV",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ March Speed II",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ Cost II",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Ingrid",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ March Speed III",
+        "levels": 9,
+        "total": "22.2B",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ Carrying Capacity II",
+        "levels": 10,
+        "total": "22.6B",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Monsters Cost III",
+        "levels": 10,
+        "total": "22.6B",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Monsters VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ March Speed IV",
+        "levels": 10,
+        "total": "271.06B",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ Carrying Capacity III",
+        "levels": 10,
+        "total": "271.06B",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Monsters Cost IV",
+        "levels": 10,
+        "total": "271.06B",
+        "curve": [],
+        "image": ""
+      },
+      {
+        "name": "Monsters VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "m2",
+    "name": "Monsters II",
+    "currency": "VP",
+    "count": 8,
+    "branch_total": "146.71T",
+    "items": [
+      {
+        "name": "Monsters’ Cost V",
+        "levels": 10,
+        "total": "4.14T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ Carrying Capacity IV",
+        "levels": 10,
+        "total": "4.14T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ March Speed V",
+        "levels": 10,
+        "total": "4.14T",
+        "curve": [
+          "16.9B",
+          "28B",
+          "47B",
+          "78B",
+          "130B",
+          "220B",
+          "370B",
+          "620B",
+          "1T",
+          "1.7T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters I",
+        "levels": 1,
+        "total": "900B",
+        "curve": [
+          "900B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters Cost VI",
+        "levels": 10,
+        "total": "41.46T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ Carrying Capacity V",
+        "levels": 10,
+        "total": "41.46T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters’ March Speed VI",
+        "levels": 10,
+        "total": "41.46T",
+        "curve": [
+          "169B",
+          "280B",
+          "470B",
+          "780B",
+          "1.3T",
+          "2.2T",
+          "3.7T",
+          "6.2T",
+          "10T",
+          "17T"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Monsters II",
+        "levels": 1,
+        "total": "9T",
+        "curve": [
+          "9T"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "a",
+    "name": "Archeology",
+    "currency": "VP",
+    "count": 36,
+    "branch_total": "4.26T",
+    "items": [
+      {
+        "name": "Tar Production I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Capacity I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt Exploration Efficiency I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypts II",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Production II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Capacity II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance to Explore Twice I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt Exploration Cost I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypts III",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Production III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Capacity III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt Exploration Efficiency II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Carter",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypts IV",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt Exploration Efficiency III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt Exploration Cost II",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance to Explore Twice II",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypts V",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Capacity IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Production IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Common Crypt Exploration Efficiency I",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Common Crypt Exploration Cost I",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Rare Crypt Exploration Efficiency I",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Rare Crypt Exploration Cost I",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Epic Crypt Exploration Efficiency I",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Epic Crypt Exploration Cost I",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypts VI",
+        "levels": 1,
+        "total": "9B",
+        "curve": [
+          "9B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Production V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Tar Capacity V",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Common Crypt Exploration Efficiency II",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Common Crypt Exploration Cost II",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Rare Crypt Exploration Efficiency II",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Rare Crypt Exploration Cost II",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Epic Crypt Exploration Efficiency II",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Epic Crypt Exploration Cost II",
+        "levels": 10,
+        "total": "486B",
+        "curve": [
+          "1.7B",
+          "3.5B",
+          "5.2B",
+          "8.6B",
+          "16B",
+          "31B",
+          "52B",
+          "78B",
+          "120B",
+          "170B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypts VII",
+        "levels": 1,
+        "total": "90B",
+        "curve": [
+          "90B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "b",
+    "name": "Blacksmithing",
+    "currency": "VP",
+    "count": 46,
+    "branch_total": "153.46B",
+    "items": [
+      {
+        "name": "Equipment Crafting Cost I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Crafting Speed I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combining Gems I",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combining Enchantments I",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Crafting I",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem and Enchantment Socketing I",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Quality Choice I",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Increased Equipment Durability I",
+        "levels": 1,
+        "total": "450K",
+        "curve": [
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Enchantment Saving Chance I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Saving Chance I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Repair Cost I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Enchantment Crafting Speed II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Saving Chance I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combining Gems II",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combining Enchantments II",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Crafting II",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem and Enchantment Socketing II",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Quality Choice II",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Increased Equipment Durability II",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Enchantment Saving Chance II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Saving Chance II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Crafting Cost II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Crafting Speed III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Repair Cost II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Saving Chance II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combining Gems III",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combing Enchantments III",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Crafting III",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem and Enchantment Socketing III",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Durability Increase III",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Quality Choice III",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Repair Cost III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Saving Chance III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Enchantment Saving Chance III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Crafting Cost III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Saving Chance III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Repair Cost IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combining Gems IV",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Combining Enchantments IV",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Crafting IV",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem and Enchantment Socketing IV",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Equipment Durability Increase IV",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Quality Choice IV",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Material Saving Chance IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Enchantment Saving Chance IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gem Saving Chance IV",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "am",
+    "name": "Army Modernization",
+    "currency": "CP",
+    "count": 73,
+    "branch_total": "2.83T",
+    "items": [
+      {
+        "name": "Army Strength I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Army Health I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Strength of Fortifications I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Strength I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Strength I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Strength I",
+        "levels": 10,
+        "total": "364.8K",
+        "curve": [
+          "200",
+          "300",
+          "800",
+          "1.9K",
+          "3.9K",
+          "9.7K",
+          "19K",
+          "39K",
+          "100K",
+          "190K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Strength I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Health of Fortifications I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Strength I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Health I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Strength I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Health I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Health I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Health I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Health I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Strength II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Health I",
+        "levels": 10,
+        "total": "5.66M",
+        "curve": [
+          "20K",
+          "40K",
+          "60K",
+          "100K",
+          "180K",
+          "360K",
+          "600K",
+          "900K",
+          "1.4M",
+          "2M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Health II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Strength II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Strength II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Strength II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Health II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Health II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Health II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Strength II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Health II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Proscope",
+        "levels": 1,
+        "total": "22M",
+        "curve": [
+          "22M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Strength of Fortifications II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Health of Fortifications II",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Strength II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Health II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Strength III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Strength III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units Strength III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Health III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Health III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units Health III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Strength III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Health III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Strength III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Health III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Strength of Fortifications III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Health of Fortifications III",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Strength III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’s Health III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Strength IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Strength IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Strength IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Health IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Health IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Health IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Health IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Strength IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Strength IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Health IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Strength of Fortifications IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Health of Fortifications IV",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Strength IV",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Health IV",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Health V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Strength V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Strength V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Strength V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Siege Engines’ Health V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Strength of Fortifications V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Health of Fortifications V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Strength V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Scouts’ Health V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ranged Units’ Health V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mounted Units’ Health V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Melee Units’ Health V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Strength V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Flying Units’ Health V",
+        "levels": 10,
+        "total": "163.8B",
+        "curve": [
+          "600M",
+          "1.2B",
+          "1.8B",
+          "3B",
+          "5.4B",
+          "10.4B",
+          "18B",
+          "26.4B",
+          "41B",
+          "56B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "ec",
+    "name": "Economy",
+    "currency": "VP",
+    "count": 30,
+    "branch_total": "53.64B",
+    "items": [
+      {
+        "name": "Stone Production I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Iron Production I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Lumber Production I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Warehouse Capacity I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Construction Speed I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Training Queue Limit I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Food Production I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Silver Production I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Research Speed I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Sacred Potion Production I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Stone Production II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Iron Production II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Lumber Production II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Warehouse Capacity II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Training Queue Limit II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Silver Production II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Food Production II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Research Speed II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Construction Speed II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Sacred Potion II",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Stone Production III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Iron Production III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Lumber Production III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Training Queue Limit III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Warehouse Capacity III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Construction III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Food Production III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Silver Production III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Research Speed III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Sacred Potion Production III",
+        "levels": 10,
+        "total": "33.18B",
+        "curve": [
+          "120M",
+          "230M",
+          "350M",
+          "580M",
+          "1B",
+          "2.1B",
+          "3.5B",
+          "5.2B",
+          "8.1B",
+          "12B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "mb",
+    "name": "Monsters Boost",
+    "currency": "CP",
+    "count": 32,
+    "branch_total": "178.24B",
+    "items": [
+      {
+        "name": "Beasts’ Strength I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Giants’ Strength I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Elementals’ Strength I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Dragons’ Strength I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Beasts’ Health I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Giants’ Health I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Elementals’ Health I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Dragons’ Health I",
+        "levels": 10,
+        "total": "95.71M",
+        "curve": [
+          "340K",
+          "670K",
+          "1M",
+          "1.7M",
+          "3M",
+          "6M",
+          "10M",
+          "15M",
+          "24M",
+          "34M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Beasts’ Strength II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Giants’ Strength II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Elementals’ Strength II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Dragons’ Strength II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Beasts’ Health II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Beasts to Strike Two Squads",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Elementals’ Health II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Elementals to Strike Two Squads",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Giants’ Health II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Giants to Strike Two Squads",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Dragons’ Health II",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Dragons to Strike Two Squads",
+        "levels": 10,
+        "total": "1.12B",
+        "curve": [
+          "3.9M",
+          "7.9M",
+          "12M",
+          "20M",
+          "36M",
+          "70M",
+          "120M",
+          "180M",
+          "280M",
+          "390M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Beasts’ Strength III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Beasts to Block a Strike",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Beasts’ Health III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Elementals’ Strength III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Elementals to Block a Strike",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Elementals’ Health III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Giants’ Strength III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Giants to Block a Strike",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Giants’ Health III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Dragons’ Strength III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Chance for Dragons to Block a Strike",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Dragons’ Health III",
+        "levels": 10,
+        "total": "13.67B",
+        "curve": [
+          "50M",
+          "100M",
+          "150M",
+          "250M",
+          "450M",
+          "870M",
+          "1.5B",
+          "2.2B",
+          "3.4B",
+          "4.7B"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "l",
+    "name": "Logistics",
+    "currency": "VP",
+    "count": 23,
+    "branch_total": "13.0B",
+    "items": [
+      {
+        "name": "Resource Gathering on the World Map I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Troop Marching Range I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Caravan Speed I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Caravan Carrying Capacity I",
+        "levels": 10,
+        "total": "843.2K",
+        "curve": [
+          "300",
+          "700",
+          "1.8K",
+          "4.5K",
+          "8.9K",
+          "22K",
+          "45K",
+          "90K",
+          "220K",
+          "450K"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Portal Duration I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt March Range I",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Maximum Portals",
+        "levels": 1,
+        "total": "8.5M",
+        "curve": [
+          "8.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Resource Gathering Speed II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Caravan Speed II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Caravan Carrying Capacity II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Troop Marching Range II",
+        "levels": 10,
+        "total": "12.84M",
+        "curve": [
+          "45K",
+          "90K",
+          "140K",
+          "230K",
+          "410K",
+          "820K",
+          "1.4M",
+          "2M",
+          "3.2M",
+          "4.5M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Resource Gathering Speed III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Portal Duration II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Maximum Portals II",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Caravan Speed III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Caravan Carrying Capacity III",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt March Range II",
+        "levels": 10,
+        "total": "200.1M",
+        "curve": [
+          "700K",
+          "1.4M",
+          "2.1M",
+          "3.5M",
+          "6.4M",
+          "13M",
+          "21M",
+          "32M",
+          "50M",
+          "70M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Captain Stror",
+        "levels": 1,
+        "total": "80M",
+        "curve": [
+          "80M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Portal Duration III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Troop Marching Range III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Maximum Portals III",
+        "levels": 1,
+        "total": "900M",
+        "curve": [
+          "900M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Crypt March Range III",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Resource Gathering on the World Map IV",
+        "levels": 10,
+        "total": "2.71B",
+        "curve": [
+          "9.6M",
+          "19M",
+          "29M",
+          "48M",
+          "87M",
+          "170M",
+          "290M",
+          "430M",
+          "670M",
+          "960M"
+        ],
+        "image": ""
+      }
+    ]
+  }
+]

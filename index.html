@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Total Battle Research Calculator</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="brandIcon">⚔</span><div><strong>Total Battle Research</strong><small>Academy planner & calculator</small></div></div>
+  <div class="topActions">
+    <button id="allBtn">Všetky</button>
+    <button id="noneBtn">0 / všetko</button>
+    <button id="resetBtn">Reset</button>
+  </div>
+</header>
+
+<main>
+<section class="calculator">
+  <div class="hero">
+    <div>
+      <div class="eyebrow">TVÔJ STAV AKADÉMIE</div>
+      <h1>Vyber svoje aktuálne levely.</h1>
+      <p>Klikni na výskum, nastav level a kalkulačka okamžite prepočíta, koľko VP a CP ešte potrebuješ.</p>
+    </div>
+    <div class="bigStats">
+      <div><span>VP zostáva</span><b id="vpTotal">0</b></div>
+      <div><span>CP zostáva</span><b id="cpTotal">0</b></div>
+      <div><span>HOTOVO</span><b id="doneTotal">0%</b></div>
+    </div>
+  </div>
+
+  <div class="searchRow">
+    <input id="search" type="search" autocomplete="off" placeholder="🔎 Hľadaj napr. Monsters VIII, Archers, Training Cost…">
+    <select id="branch"><option value="all">Všetky vetvy</option></select>
+    <select id="currency"><option value="all">VP + CP</option><option value="VP">Iba VP</option><option value="CP">Iba CP</option></select>
+    <select id="status"><option value="all">Všetky</option><option value="todo">Nedokončené</option><option value="done">Hotové</option><option value="afford">Zmestí sa do rozpočtu</option></select>
+  </div>
+
+  <div class="budgetRow">
+    <label>Moje VP <input id="vpBudget" type="number" min="0" value="0"></label>
+    <label>Moje CP <input id="cpBudget" type="number" min="0" value="0"></label>
+    <div class="budgetResult" id="budgetResult">Zadaj zásobu VP/CP a uvidíš, ktoré ďalšie levely si môžeš dovoliť.</div>
+  </div>
+</section>
+
+<nav id="tabs" class="tabs"></nav>
+<section id="results"></section>
+</main>
+
+<dialog id="researchDialog">
+  <div class="dialogHead">
+    <div id="dialogImage" class="researchImage large"></div>
+    <div><div class="eyebrow" id="dialogBranch"></div><h2 id="dialogName"></h2><p id="dialogMeta"></p></div>
+    <button id="dialogClose" class="x">×</button>
+  </div>
+  <div class="levelPicker" id="levelPicker"></div>
+  <div class="dialogTotals">
+    <div><span>Hotovo</span><b id="dialogDone"></b></div>
+    <div><span>Zostáva</span><b id="dialogRemaining"></b></div>
+    <div><span>Cena zostáva</span><b id="dialogCost"></b></div>
+  </div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
