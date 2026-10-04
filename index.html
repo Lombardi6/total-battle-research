@@ -2,34 +2,92 @@
 <html lang="sk">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#080b10">
-<title>Total Battle · Research Planner</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Total Battle — Academy Planner</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="ambient"></div>
-<header class="topbar">
-  <div class="brand"><div class="brandIcon">⚔</div><div><strong>Total Battle <em>Research</em></strong><small>Academy planner · 418 výskumov · 14 vetiev</small></div></div>
-  <div class="topActions"><button id="allBtn">✓ MAX všetko</button><button id="noneBtn">○ Vynulovať</button><button id="resetBtn">↺ Reset</button></div>
-</header>
-<main>
-<section class="heroPanel">
-  <div class="heroCopy"><div class="eyebrow">ACADEMY RESEARCH PLANNER</div><h1>Maj výskum <span>pod kontrolou.</span></h1><p>Postupuj presne podľa poradia v jednotlivých vetvách. Klikni na kartu, nastav level a okamžite vidíš zostávajúce VP/CP.</p><div class="heroPills"><span>418 výskumov</span><span>14 vetiev</span><span>VP + CP</span><span>Ukladá sa v prehliadači</span></div></div>
-  <div class="statGrid"><div class="stat vp"><span>VALOR POINTS</span><b id="vpTotal">0</b><small>zostáva</small></div><div class="stat cp"><span>CONQUEST POINTS</span><b id="cpTotal">0</b><small>zostáva</small></div><div class="stat done"><span>PROGRES</span><b id="doneTotal">0%</b><small>celá akadémia</small></div></div>
-</section>
-<section class="controlPanel">
-  <div class="searchLine"><div class="searchBox"><span>⌕</span><input id="search" type="search" autocomplete="off" placeholder="Hľadaj výskum, jednotku, kapitána…"></div><select id="branch"><option value="all">Všetky vetvy</option></select><select id="currency"><option value="all">VP + CP</option><option value="VP">Iba VP</option><option value="CP">Iba CP</option></select><select id="status"><option value="all">Všetky stavy</option><option value="todo">Nedokončené</option><option value="done">Hotové</option><option value="afford">V mojom rozpočte</option></select></div>
-  <div class="budgetLine"><label><span>Moje VP</span><input id="vpBudget" type="number" min="0" value="0"></label><label><span>Moje CP</span><input id="cpBudget" type="number" min="0" value="0"></label><div id="budgetResult" class="budgetResult">Zadaj zásobu VP/CP a uvidíš, čo sa zmestí do rozpočtu.</div></div>
-</section>
-<nav id="tabs" class="tabs"></nav>
-<section id="results"></section>
-</main>
-<dialog id="researchDialog">
- <div class="dialogTop"><div id="dialogImage" class="researchImage large"></div><div class="dialogTitle"><div class="eyebrow" id="dialogBranch"></div><h2 id="dialogName"></h2><p id="dialogMeta"></p></div><button id="dialogClose" class="x">×</button></div>
- <div class="levelPicker" id="levelPicker"></div>
- <div class="dialogTotals"><div><span>HOTOVO</span><b id="dialogDone"></b></div><div><span>ZOSTÁVA</span><b id="dialogRemaining"></b></div><div><span>CENA ZOSTÁVA</span><b id="dialogCost"></b></div></div>
-</dialog>
+<div class="app-shell">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">⚔</div>
+      <div>
+        <div class="eyebrow">TOTAL BATTLE</div>
+        <h1>ACADEMY <span>PLANNER</span></h1>
+      </div>
+    </div>
+    <div class="top-actions">
+      <button class="ghost" id="resetProgress">Reset progres</button>
+      <button class="gold" id="maxAll">Max všetko</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="kicker">MODERNÁ VERZIA AKADÉMIE</div>
+        <h2>Výskumný strom, ktorý sa správa ako hra.</h2>
+        <p>Vyber vetvu, klikni na výskum a nastav presný level. Progres zostáva uložený v tomto prehliadači.</p>
+        <div class="hero-pills">
+          <span>418 výskumov</span><span>14 vetiev</span><span>VP + CP oddelene</span>
+        </div>
+      </div>
+      <div class="hero-emblem">
+        <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
+        <div class="emblem-core">⚔</div>
+      </div>
+    </section>
+
+    <section class="stats">
+      <div class="stat-card valor">
+        <div class="stat-icon">V</div><div><small>VALOR ZOSTÁVA</small><strong id="vpTotal">0</strong><span>VP</span></div>
+      </div>
+      <div class="stat-card conquest">
+        <div class="stat-icon">C</div><div><small>CONQUEST ZOSTÁVA</small><strong id="cpTotal">0</strong><span>CP</span></div>
+      </div>
+      <div class="stat-card progress">
+        <div class="stat-icon">✓</div><div><small>CELKOVÝ PROGRES</small><strong id="doneTotal">0%</strong><span>hotovo</span></div>
+      </div>
+      <div class="stat-card levels">
+        <div class="stat-icon">⌁</div><div><small>LEVELY ZOSTÁVAJÚ</small><strong id="levelsLeft">0</strong><span>levelov</span></div>
+      </div>
+    </section>
+
+    <section class="controls">
+      <div class="search-wrap"><span>⌕</span><input id="search" placeholder="Hľadaj výskum, kapitána, jednotku…"></div>
+      <select id="branch"><option value="all">Všetky vetvy</option></select>
+      <select id="currency"><option value="all">VP + CP</option><option value="VP">Len Valor</option><option value="CP">Len Conquest</option></select>
+      <select id="status"><option value="all">Všetky stavy</option><option value="todo">Nedokončené</option><option value="done">Dokončené</option><option value="afford">V rozpočte</option></select>
+    </section>
+
+    <section class="budget">
+      <div class="budget-title"><span>ROZPOČET</span><small>Koľko VP/CP máš práve k dispozícii?</small></div>
+      <label>VP <input id="vpBudget" inputmode="decimal" placeholder="napr. 10B"></label>
+      <label>CP <input id="cpBudget" inputmode="decimal" placeholder="napr. 5B"></label>
+      <div id="budgetResult" class="budget-result">Zadaj zásobu VP/CP a uvidíš, čo si môžeš dovoliť.</div>
+    </section>
+
+    <nav id="tabs" class="tabs"></nav>
+    <div id="results" class="results"></div>
+  </main>
+
+  <dialog id="researchDialog">
+    <div class="modal">
+      <button class="close" id="closeDialog">×</button>
+      <div class="modal-head">
+        <div class="modal-image" id="dialogImage"></div>
+        <div><div class="eyebrow" id="dialogBranch"></div><h3 id="dialogName"></h3><p id="dialogMeta"></p></div>
+      </div>
+      <div class="modal-summary">
+        <div><small>AKTUÁLNE</small><strong id="dialogDone">0 / 0</strong></div>
+        <div><small>ZOSTÁVA</small><strong id="dialogRemaining">0</strong></div>
+        <div><small>NÁKLAD</small><strong id="dialogCost">0</strong></div>
+      </div>
+      <div class="level-title">Vyber level</div>
+      <div id="levelPicker" class="level-picker"></div>
+    </div>
+  </dialog>
+</div>
 <script src="app.js"></script>
 </body>
 </html>

@@ -13,7 +13,7 @@
         "curve": [
           "300"
         ],
-        "image": "images/b28269c1a6c4de.svg",
+        "image": "assets/game-icons/Archers I.png",
         "order": 1,
         "globalOrder": 1
       },
@@ -24,7 +24,7 @@
         "curve": [
           "300"
         ],
-        "image": "images/73e93ad5a3c612.svg",
+        "image": "assets/game-icons/Spearmen I.png",
         "order": 2,
         "globalOrder": 2
       },
@@ -35,7 +35,7 @@
         "curve": [
           "300"
         ],
-        "image": "images/c3b1c095e24bd2.svg",
+        "image": "assets/game-icons/Riders I.png",
         "order": 3,
         "globalOrder": 3
       },
@@ -55,7 +55,7 @@
           "220K",
           "450K"
         ],
-        "image": "images/8623a64ff58078.svg",
+        "image": "assets/game-icons/Guardsmen Training Cost I.png",
         "order": 4,
         "globalOrder": 4
       },
@@ -75,7 +75,7 @@
           "220K",
           "450K"
         ],
-        "image": "images/7643ed7cf3582f.svg",
+        "image": "assets/game-icons/Guardsmen Carrying Capacity I.png",
         "order": 5,
         "globalOrder": 5
       },
@@ -86,7 +86,7 @@
         "curve": [
           "450K"
         ],
-        "image": "images/4b2e06fbe3913c.svg",
+        "image": "assets/game-icons/Archers II.png",
         "order": 6,
         "globalOrder": 6
       },
@@ -97,7 +97,7 @@
         "curve": [
           "450K"
         ],
-        "image": "images/65104d85bcc115.svg",
+        "image": "assets/game-icons/Spearmen II.png",
         "order": 7,
         "globalOrder": 7
       },
@@ -108,7 +108,7 @@
         "curve": [
           "450K"
         ],
-        "image": "images/f2fed72eaf5c7e.svg",
+        "image": "assets/game-icons/Riders II.png",
         "order": 8,
         "globalOrder": 8
       },
@@ -128,7 +128,7 @@
           "3.2M",
           "4.5M"
         ],
-        "image": "images/b1ad7510f53dd3.svg",
+        "image": "assets/game-icons/Guardsmen Training Cost II.png",
         "order": 9,
         "globalOrder": 9
       },
@@ -139,7 +139,7 @@
         "curve": [
           "450K"
         ],
-        "image": "images/a06268eb962889.svg",
+        "image": "assets/game-icons/Captain Bernard.png",
         "order": 10,
         "globalOrder": 10
       },
@@ -170,7 +170,7 @@
         "curve": [
           "450K"
         ],
-        "image": "images/bec6e6a89577f7.svg",
+        "image": "assets/game-icons/Captain Lucius.png",
         "order": 12,
         "globalOrder": 12
       },
@@ -181,7 +181,7 @@
         "curve": [
           "8.5M"
         ],
-        "image": "images/6877be9580b68d.svg",
+        "image": "assets/game-icons/Archers III.png",
         "order": 13,
         "globalOrder": 13
       },
@@ -192,7 +192,7 @@
         "curve": [
           "8.5M"
         ],
-        "image": "images/7b5951ca0f296c.svg",
+        "image": "assets/game-icons/Spearmen III.png",
         "order": 14,
         "globalOrder": 14
       },
@@ -203,7 +203,7 @@
         "curve": [
           "8.5M"
         ],
-        "image": "images/f03297c469b33e.svg",
+        "image": "assets/game-icons/Riders III.png",
         "order": 15,
         "globalOrder": 15
       },
@@ -234,7 +234,7 @@
         "curve": [
           "80M"
         ],
-        "image": "images/7fd97cc8ee4299.svg",
+        "image": "assets/game-icons/Captain Doria.png",
         "order": 17,
         "globalOrder": 17
       },
@@ -265,7 +265,7 @@
         "curve": [
           "80M"
         ],
-        "image": "images/9e49d0a71c71d2.svg",
+        "image": "assets/game-icons/Archers IV.png",
         "order": 19,
         "globalOrder": 19
       },
@@ -276,7 +276,7 @@
         "curve": [
           "80M"
         ],
-        "image": "images/2a48da6c92454f.svg",
+        "image": "assets/game-icons/Spearmen IV.png",
         "order": 20,
         "globalOrder": 20
       },
@@ -287,7 +287,7 @@
         "curve": [
           "80M"
         ],
-        "image": "images/24553e9989b350.svg",
+        "image": "assets/game-icons/Riders IV.png",
         "order": 21,
         "globalOrder": 21
       },
@@ -358,7 +358,7 @@
         "curve": [
           "900M"
         ],
-        "image": "images/a37286d2061520.svg",
+        "image": "assets/game-icons/Archers V.png",
         "order": 25,
         "globalOrder": 25
       },
@@ -369,7 +369,7 @@
         "curve": [
           "900M"
         ],
-        "image": "images/e4dffe0272d6be.svg",
+        "image": "assets/game-icons/Spearmen V.png",
         "order": 26,
         "globalOrder": 26
       },
@@ -380,7 +380,7 @@
         "curve": [
           "900M"
         ],
-        "image": "images/36ab1261427ada.svg",
+        "image": "assets/game-icons/Riders V.png",
         "order": 27,
         "globalOrder": 27
       },
@@ -391,7 +391,7 @@
         "curve": [
           "900M"
         ],
-        "image": "images/cad8f2f486cd03.svg",
+        "image": "assets/game-icons/Battle Griffin V.png",
         "order": 28,
         "globalOrder": 28
       },
@@ -422,7 +422,7 @@
         "curve": [
           "900M"
         ],
-        "image": "images/3d241dad4e80cd.svg",
+        "image": "assets/game-icons/Captain Brunhild.png",
         "order": 30,
         "globalOrder": 30
       },
